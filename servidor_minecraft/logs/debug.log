@@ -2381,3 +2381,24 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [21Dec2024 21:22:45.374] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [21Dec2024 21:26:58.854] [Server thread/DEBUG] [mixin/]: Mixing util.IWorldPosCallableMixin from mixins.arclight.core.json into net.minecraft.util.IWorldPosCallable
 [21Dec2024 21:26:58.856] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/util/IWorldPosCallable$1Anonymous$71346b0bf4a84ae18b6768e93a2a0e91 (originally io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin$1Anonymous)
+[21Dec2024 21:27:45.270] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:27:45.274] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Dec2024 21:31:22.181] [Server thread/INFO] [Console/]: <Dylan_HHH> kaleb
+[21Dec2024 21:31:31.843] [Server thread/INFO] [Console/]: <Dylan_HHH> donde estas
+[21Dec2024 21:31:44.715] [Server thread/INFO] [Console/]: <Dylan_HHH> vamos a vestirte
+[21Dec2024 21:31:52.583] [Server thread/INFO] [Console/]: <Dylan_HHH> veni
+[21Dec2024 21:32:42.027] [Server thread/INFO] [Console/]: <KaleSsz> gracias papu
+[21Dec2024 21:32:45.281] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:32:45.284] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Dec2024 21:34:23.347] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SCombatPacket$1
+[21Dec2024 21:37:45.908] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:37:45.914] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Dec2024 21:40:50.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz was slain by Iron Golem
+[21Dec2024 21:41:17.108] [Server thread/INFO] [Console/]: <Dylan_HHH> Q HICISTES
+[21Dec2024 21:41:23.803] [Server thread/INFO] [Console/]: <KaleSsz> se escapó
+[21Dec2024 21:41:29.782] [Server thread/INFO] [Console/]: <Dylan_HHH> xd
+[21Dec2024 21:42:45.380] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:42:45.387] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Dec2024 21:43:00.937] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.StonecutterContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.StonecutterContainer$1
+[21Dec2024 21:47:45.348] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:47:45.353] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
