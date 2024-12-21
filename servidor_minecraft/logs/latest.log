@@ -261,3 +261,10 @@
 [21Dec2024 22:26:19.578] [Server thread/INFO] [Console/]: <pepito> hola
 [21Dec2024 22:28:34.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pepito has made the advancement [Sweet Dreams]
 [21Dec2024 22:30:20.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pepito has made the advancement [Suit Up]
+[21Dec2024 22:43:36.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pepito has made the advancement [Ice Bucket Challenge]
+[21Dec2024 22:46:42.505] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[21Dec2024 22:46:42.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b2d1d2f
+[21Dec2024 22:46:42.603] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.155.213.52:34747] logged in with entity id 16659 at (331.28176980658486, 68.0, -40.20565823291453)
+[21Dec2024 22:46:52.260] [Server thread/INFO] [Console/]: <pepito> hello da
+[21Dec2024 22:48:03.412] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pepito lost connection: Disconnected
+[21Dec2024 22:48:03.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pepito left the game
