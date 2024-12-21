@@ -2370,3 +2370,14 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [21Dec2024 21:16:49.199] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7637a2d1
 [21Dec2024 21:16:49.204] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.87.168.52:59415] logged in with entity id 2539 at (287.88736022951167, 68.0, -16.372450191446895)
 [21Dec2024 21:16:49.205] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@4541e278 into net.minecraft.network.NetworkManager@36d3e63e
+[21Dec2024 21:17:43.601] [Server thread/INFO] [Console/]: <Dylan_HHH> hola
+[21Dec2024 21:17:45.359] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:17:45.364] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Dec2024 21:17:47.500] [Server thread/INFO] [Console/]: <KaleSsz> hola dil
+[21Dec2024 21:19:00.252] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[21Dec2024 21:22:22.330] [Server thread/INFO] [Console/]: <KaleSsz> llegó el peruanooo
+[21Dec2024 21:22:27.945] [Server thread/INFO] [Console/]: <Dylan_HHH> siii
+[21Dec2024 21:22:45.370] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:22:45.374] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Dec2024 21:26:58.854] [Server thread/DEBUG] [mixin/]: Mixing util.IWorldPosCallableMixin from mixins.arclight.core.json into net.minecraft.util.IWorldPosCallable
+[21Dec2024 21:26:58.856] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/util/IWorldPosCallable$1Anonymous$71346b0bf4a84ae18b6768e93a2a0e91 (originally io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin$1Anonymous)
