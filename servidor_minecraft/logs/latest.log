@@ -255,3 +255,7 @@
 [21Dec2024 22:07:36.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
 [21Dec2024 22:14:27.043] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
 [21Dec2024 22:14:27.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[21Dec2024 22:25:59.791] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pepito is 3b6eece8-baa9-3e51-8999-07090befd51e
+[21Dec2024 22:25:59.891] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@25ff0f8e
+[21Dec2024 22:25:59.899] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pepito[/127.88.143.96:36449] logged in with entity id 13440 at (349.8819419568084, 66.0, -193.77228445581537)
+[21Dec2024 22:26:19.578] [Server thread/INFO] [Console/]: <pepito> hola
