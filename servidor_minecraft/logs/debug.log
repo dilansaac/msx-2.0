@@ -2402,3 +2402,12 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [21Dec2024 21:43:00.937] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.StonecutterContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.StonecutterContainer$1
 [21Dec2024 21:47:45.348] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [21Dec2024 21:47:45.353] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Dec2024 21:49:38.934] [Server thread/INFO] [Console/]: <Dylan_HHH> necesitas roca?
+[21Dec2024 21:49:47.777] [Server thread/INFO] [Console/]: <KaleSsz> bastante
+[21Dec2024 21:50:00.608] [Server thread/INFO] [Console/]: <Dylan_HHH> ahi
+[21Dec2024 21:51:13.807] [Server thread/INFO] [Console/]: <KaleSsz> dilan puedes fabricar una cortadora de piedra?
+[21Dec2024 21:51:32.506] [Server thread/INFO] [Console/]: <Dylan_HHH> voy
+[21Dec2024 21:52:45.457] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:52:45.463] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21Dec2024 21:57:45.437] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21Dec2024 21:57:45.446] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
