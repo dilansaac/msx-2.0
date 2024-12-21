@@ -211,3 +211,18 @@
 [21Dec2024 21:05:23.829] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [21Dec2024 21:05:25.311] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@738cf2bd
 [21Dec2024 21:05:25.320] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:39045] logged in with entity id 969 at (291.0024112965915, 68.0, -53.42101799499553)
+[21Dec2024 21:07:24.116] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[21Dec2024 21:07:25.496] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[21Dec2024 21:07:25.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[21Dec2024 21:07:25.512] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@31986a51
+[21Dec2024 21:07:25.518] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.161.163.130:37175] logged in with entity id 1284 at (308.27332048558986, 68.0, -48.58533397165425)
+[21Dec2024 21:07:25.609] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[21Dec2024 21:16:12.646] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[21Dec2024 21:16:14.651] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7efed6d6
+[21Dec2024 21:16:14.657] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.164.184.75:37991] logged in with entity id 2459 at (287.88736022951167, 68.0, -16.372450191446895)
+[21Dec2024 21:16:29.796] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Timed out
+[21Dec2024 21:16:29.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[21Dec2024 21:16:29.845] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[21Dec2024 21:16:47.564] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[21Dec2024 21:16:49.199] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7637a2d1
+[21Dec2024 21:16:49.204] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.87.168.52:59415] logged in with entity id 2539 at (287.88736022951167, 68.0, -16.372450191446895)
