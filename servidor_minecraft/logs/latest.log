@@ -269,3 +269,5 @@
 [21Dec2024 22:48:03.412] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pepito lost connection: Disconnected
 [21Dec2024 22:48:03.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pepito left the game
 [21Dec2024 23:15:16.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz fell from a high place
+[21Dec2024 23:32:10.447] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
+[21Dec2024 23:32:10.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
