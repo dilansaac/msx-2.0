@@ -253,3 +253,5 @@
 [21Dec2024 22:07:25.953] [Server thread/INFO] [Console/]: <Dylan_HHH> dejo el server abierto oite
 [21Dec2024 22:07:36.596] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
 [21Dec2024 22:07:36.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[21Dec2024 22:14:27.043] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
+[21Dec2024 22:14:27.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
