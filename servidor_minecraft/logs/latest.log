@@ -193,3 +193,7 @@
 [22Dec2024 19:07:34.214] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [22Dec2024 19:07:35.680] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ce52725
 [22Dec2024 19:07:35.711] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:60591] logged in with entity id 89 at (295.46633136829263, 69.0, -22.756184189187252)
+[22Dec2024 19:28:12.537] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/142, l='ServerLevel[world]', x=300.70, y=66.00, z=13.70] died, message: 'Villager was slain by Zombie'
+[22Dec2024 19:30:25.429] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[22Dec2024 19:30:33.988] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a7a32e5
+[22Dec2024 19:30:35.804] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:39721] logged in with entity id 3362 at (313.3583311217728, 63.0, -38.664015273741185)
