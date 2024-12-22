@@ -1994,3 +1994,24 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [22Dec2024 19:49:43.200] [Server thread/INFO] [Console/]: <Crying_Prophet> aweona
 [22Dec2024 19:49:45.090] [Server thread/INFO] [Console/]: <Crying_Prophet> o
 [22Dec2024 19:49:47.743] [Server thread/INFO] [Console/]: <KaleSsz> de q ptas
+[22Dec2024 19:51:06.442] [Server thread/INFO] [Console/]: <KaleSsz> esos ptos golems se salieron solos
+[22Dec2024 19:51:14.799] [Server thread/INFO] [Console/]: <Crying_Prophet> mis wbos kabron
+[22Dec2024 19:51:27.992] [Server thread/INFO] [Console/]: <KaleSsz> yo pa q voy a querer sacarlos
+[22Dec2024 19:51:28.649] [Server thread/INFO] [Console/]: <Crying_Prophet> quien fue el pendejo que hizo una escalera de piedra?
+[22Dec2024 19:51:33.849] [Server thread/INFO] [Console/]: <Crying_Prophet> mogolico
+[22Dec2024 19:51:41.237] [Server thread/INFO] [Console/]: <Crying_Prophet> los golems spawnean ahi
+[22Dec2024 19:51:41.624] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 19:51:41.636] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 19:51:44.139] [Server thread/INFO] [Console/]: <KaleSsz> yo no hice esa escalera
+[22Dec2024 19:51:46.209] [Server thread/INFO] [Console/]: <Dylan_HHH> y si entramos al dc
+[22Dec2024 19:51:51.216] [Server thread/INFO] [Console/]: <Crying_Prophet> nadie la hizo pues
+[22Dec2024 19:52:03.167] [Server thread/INFO] [Console/]: <KaleSsz> papu pregunta a elihec
+[22Dec2024 19:52:17.459] [Server thread/INFO] [Console/]: <Crying_Prophet> elihec ni ah entrado wn
+[22Dec2024 19:52:24.723] [Server thread/INFO] [Console/]: <KaleSsz> si entro
+[22Dec2024 19:56:41.679] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 19:56:41.686] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 19:58:06.430] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/entity/item/BoatEntity$1
+[22Dec2024 19:58:16.230] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/HorizontalFaceBlock$1
+[22Dec2024 19:59:46.269] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/AabbHelper$1
+[22Dec2024 20:00:22.783] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/block/PistonBlock$1BlockList$f9bca13358bf4766808b3b56af35f116 (originally io/izzel/arclight/common/mixin/core/block/PistonBlockMixin$1BlockList)
+[22Dec2024 20:00:22.791] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/tileentity/PistonTileEntity$1
