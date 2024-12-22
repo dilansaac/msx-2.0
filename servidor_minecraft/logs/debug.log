@@ -2015,3 +2015,50 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [22Dec2024 19:59:46.269] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/AabbHelper$1
 [22Dec2024 20:00:22.783] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/block/PistonBlock$1BlockList$f9bca13358bf4766808b3b56af35f116 (originally io/izzel/arclight/common/mixin/core/block/PistonBlockMixin$1BlockList)
 [22Dec2024 20:00:22.791] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/tileentity/PistonTileEntity$1
+[22Dec2024 20:01:41.615] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 20:01:41.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 20:02:58.689] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[22Dec2024 20:02:58.690] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[22Dec2024 20:02:58.690] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[22Dec2024 20:02:58.690] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[22Dec2024 20:02:58.690] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[22Dec2024 20:03:39.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz fell from a high place
+[22Dec2024 20:03:50.239] [Server thread/INFO] [Console/]: <Crying_Prophet> kale
+[22Dec2024 20:03:52.491] [Server thread/INFO] [Console/]: <Crying_Prophet> a dc
+[22Dec2024 20:04:11.125] [Server thread/INFO] [Console/]: <Crying_Prophet> kale me cago en tus muertos kborn
+[22Dec2024 20:04:20.997] [Server thread/INFO] [Console/]: <Crying_Prophet> no pongas piedra cerca de la granja de hierro
+[22Dec2024 20:04:21.289] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
+[22Dec2024 20:04:21.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[22Dec2024 20:06:41.674] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 20:06:41.679] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 20:07:28.226] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_16_R3/block/CraftBed
+[22Dec2024 20:07:28.226] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_16_R3/block/CraftBed
+[22Dec2024 20:07:28.227] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_16_R3/block/CraftBed:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[22Dec2024 20:07:32.555] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 20:07:32.555] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 20:07:32.555] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 20:07:32.555] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 20:07:32.555] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 20:07:32.556] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 20:07:32.556] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 20:07:32.556] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[22Dec2024 20:07:32.556] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[22Dec2024 20:07:32.557] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[22Dec2024 20:07:32.586] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[22Dec2024 20:07:32.645] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1851fe8
+[22Dec2024 20:07:32.653] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.155.213.52:38665] logged in with entity id 9865 at (305.2102431526343, 68.5, -15.263496137675858)
+[22Dec2024 20:07:32.655] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@5cc9e6af into net.minecraft.network.NetworkManager@6520e0fc
+[22Dec2024 20:09:13.935] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/133, l='ServerLevel[world]', x=321.30, y=68.00, z=-35.56] died, message: 'Villager burned to death'
+[22Dec2024 20:09:13.936] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/143, l='ServerLevel[world]', x=321.66, y=68.00, z=-36.08] died, message: 'Villager burned to death'
+[22Dec2024 20:09:13.937] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/144, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.48] died, message: 'Villager burned to death'
+[22Dec2024 20:09:21.584] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/129, l='ServerLevel[world]', x=321.30, y=68.00, z=-35.52] died, message: 'Villager burned to death'
+[22Dec2024 20:09:22.935] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/131, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.86] died, message: 'Villager burned to death'
+[22Dec2024 20:09:33.034] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/140, l='ServerLevel[world]', x=321.57, y=68.00, z=-35.85] died, message: 'Villager tried to swim in lava'
+[22Dec2024 20:09:33.036] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/5475, l='ServerLevel[world]', x=321.70, y=68.00, z=-36.54] died, message: 'Villager tried to swim in lava'
+[22Dec2024 20:09:36.536] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7485, l='ServerLevel[world]', x=321.21, y=68.14, z=-36.46] died, message: 'Villager tried to swim in lava'
+[22Dec2024 20:09:38.087] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4063, l='ServerLevel[world]', x=321.70, y=68.32, z=-35.03] died, message: 'Villager tried to swim in lava'
+[22Dec2024 20:09:38.336] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/8749, l='ServerLevel[world]', x=321.84, y=68.31, z=-35.60] died, message: 'Villager tried to swim in lava'
+[22Dec2024 20:09:39.037] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10020, l='ServerLevel[world]', x=321.18, y=68.19, z=-34.89] died, message: 'Villager tried to swim in lava'
+[22Dec2024 20:09:39.584] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/128, l='ServerLevel[world]', x=321.70, y=68.48, z=-34.30] died, message: 'Villager burned to death'
+[22Dec2024 20:09:39.685] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2494, l='ServerLevel[world]', x=321.32, y=68.08, z=-34.93] died, message: 'Villager tried to swim in lava'
+[22Dec2024 20:10:02.172] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/117, l='ServerLevel[world]', x=314.40, y=68.00, z=-41.41] died, message: 'Villager was slain by Crying_Prophet'
