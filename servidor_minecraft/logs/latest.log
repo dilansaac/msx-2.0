@@ -288,3 +288,9 @@
 [22Dec2024 20:09:39.584] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/128, l='ServerLevel[world]', x=321.70, y=68.48, z=-34.30] died, message: 'Villager burned to death'
 [22Dec2024 20:09:39.685] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2494, l='ServerLevel[world]', x=321.32, y=68.08, z=-34.93] died, message: 'Villager tried to swim in lava'
 [22Dec2024 20:10:02.172] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/117, l='ServerLevel[world]', x=314.40, y=68.00, z=-41.41] died, message: 'Villager was slain by Crying_Prophet'
+[22Dec2024 20:21:42.442] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22Dec2024 20:21:46.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
+[22Dec2024 20:21:46.172] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved too quickly! -9.631518145942493,0.41999998688697815,-2.981429324909996
+[22Dec2024 20:22:57.335] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
+[22Dec2024 20:22:57.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[22Dec2024 20:23:15.984] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/118, l='ServerLevel[world]', x=321.51, y=63.10, z=-37.30] died, message: 'Villager tried to swim in lava'
