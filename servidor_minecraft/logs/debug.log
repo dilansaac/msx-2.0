@@ -2077,3 +2077,9 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [22Dec2024 20:23:15.984] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/118, l='ServerLevel[world]', x=321.51, y=63.10, z=-37.30] died, message: 'Villager tried to swim in lava'
 [22Dec2024 20:26:45.266] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [22Dec2024 20:26:45.269] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 20:31:45.339] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 20:31:45.358] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 20:35:45.136] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[22Dec2024 20:35:45.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[22Dec2024 20:36:45.113] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 20:36:45.116] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

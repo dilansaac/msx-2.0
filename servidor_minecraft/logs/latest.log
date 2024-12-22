@@ -294,3 +294,5 @@
 [22Dec2024 20:22:57.335] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
 [22Dec2024 20:22:57.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
 [22Dec2024 20:23:15.984] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/118, l='ServerLevel[world]', x=321.51, y=63.10, z=-37.30] died, message: 'Villager tried to swim in lava'
+[22Dec2024 20:35:45.136] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[22Dec2024 20:35:45.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
