@@ -1805,3 +1805,25 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [22Dec2024 19:07:55.649] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/ServerPlayNetHandler$1
 [22Dec2024 19:08:32.417] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin$1
 [22Dec2024 19:09:47.836] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SCombatPacket$1
+[22Dec2024 19:11:41.640] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyUtilMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_16_R3.util.CraftLegacy
+[22Dec2024 19:11:41.641] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modern_values$1(I)[Lorg/bukkit/Material; to md6d5bbb$lambda$modern_values$1$0 in mixins.arclight.bukkit.json:CraftLegacyUtilMixin
+[22Dec2024 19:11:41.641] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modern_values$0(Lorg/bukkit/Material;)Z to md6d5bbb$lambda$modern_values$0$1 in mixins.arclight.bukkit.json:CraftLegacyUtilMixin
+[22Dec2024 19:11:41.657] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[22Dec2024 19:11:42.054] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 19:11:42.060] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22Dec2024 19:13:26.409] [Server thread/DEBUG] [mixin/]: Mixing inventory.DoubleSidedInventoryMixin from mixins.arclight.core.json into net.minecraft.inventory.DoubleSidedInventory
+[22Dec2024 19:13:26.420] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_16_R3/inventory/CraftInventoryCustom$MinecraftInventory
+[22Dec2024 19:13:26.421] [Server thread/DEBUG] [mixin/]: Mixing inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.inventory.MerchantInventory
+[22Dec2024 19:13:26.433] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class net/minecraft/tileentity/LecternTileEntity$LecternInventory
+[22Dec2024 19:13:26.442] [Server thread/DEBUG] [mixin/]: Mixing entity.monster.piglin.PiglinTasksMixin from mixins.arclight.core.json into net.minecraft.entity.monster.piglin.PiglinTasks
+[22Dec2024 19:13:26.444] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_230280_a_ with desc (Lnet/minecraft/item/ShootableItem;)Z
+[22Dec2024 19:13:26.445] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_208003_a with desc (Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)Z
+[22Dec2024 19:13:29.030] [Server thread/DEBUG] [mixin/]: Mixing util.IWorldPosCallableMixin from mixins.arclight.core.json into net.minecraft.util.IWorldPosCallable
+[22Dec2024 19:13:29.032] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/util/IWorldPosCallable$1Anonymous$e4154874dc944c58ac23d6e7cd5ca1ee (originally io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin$1Anonymous)
+[22Dec2024 19:16:32.741] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[22Dec2024 19:16:32.890] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_16_R3/inventory/CraftMetaBlockState
+[22Dec2024 19:16:32.890] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_16_R3/inventory/CraftMetaBlockState
+[22Dec2024 19:16:32.890] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_16_R3/inventory/CraftMetaBlockState:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[22Dec2024 19:16:33.281] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[22Dec2024 19:16:41.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22Dec2024 19:16:41.718] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
