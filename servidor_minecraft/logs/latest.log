@@ -264,3 +264,15 @@
 [23Dec2024 19:28:07.064] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
 [23Dec2024 19:28:08.953] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@767870ec
 [23Dec2024 19:28:08.958] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.111.46.207:39471] logged in with entity id 7455 at (301.0322644416193, 88.0, -20.29774580357323)
+[23Dec2024 19:33:38.398] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[23Dec2024 19:33:38.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[23Dec2024 19:33:40.441] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[23Dec2024 19:33:41.957] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f7acd16
+[23Dec2024 19:33:41.962] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.144.18.75:33535] logged in with entity id 8685 at (301.8560493913053, 68.0, -40.17010476434491)
+[23Dec2024 19:34:12.048] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
+[23Dec2024 19:34:12.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[23Dec2024 19:34:12.108] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Dec2024 19:34:52.377] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[23Dec2024 19:34:53.806] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@428ead60
+[23Dec2024 19:34:53.812] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.144.18.75:36479] logged in with entity id 8923 at (301.8560493913053, 68.0, -40.17010476434491)
+[23Dec2024 19:35:58.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz fell from a high place
