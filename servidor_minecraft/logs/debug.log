@@ -2132,3 +2132,27 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [23Dec2024 19:07:49.198] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.GrindstoneContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.GrindstoneContainer$1
 [23Dec2024 19:07:53.954] [Server thread/INFO] [Console/]: <Dylan_HHH> q mas
 [23Dec2024 19:08:02.710] [Server thread/INFO] [Console/]: <Dylan_HHH> soy rico
+[23Dec2024 19:09:19.348] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/server/SCombatPacket$1
+[23Dec2024 19:09:21.864] [Server thread/INFO] [Console/]: <Crying_Prophet> mira w
+[23Dec2024 19:09:25.998] [Server thread/INFO] [Console/]: <Crying_Prophet> necesitamos un zombie
+[23Dec2024 19:09:32.690] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:09:32.693] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 19:09:33.453] [Server thread/INFO] [Console/]: <Dylan_HHH> yava
+[23Dec2024 19:10:11.780] [Server thread/INFO] [Console/]: <Crying_Prophet> w
+[23Dec2024 19:10:36.717] [Server thread/INFO] [Console/]: <Dylan_HHH> q
+[23Dec2024 19:11:00.264] [Server thread/INFO] [Console/]: <Crying_Prophet> olvidalo
+[23Dec2024 19:11:22.214] [Server thread/INFO] [Console/]: <Crying_Prophet> trae el yunque para aca abajo w
+[23Dec2024 19:11:29.944] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/HorizontalFaceBlock$1
+[23Dec2024 19:12:54.952] [Server thread/INFO] [Console/]: <Crying_Prophet> tienes comida?
+[23Dec2024 19:13:16.601] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/entity/item/BoatEntity$1
+[23Dec2024 19:13:22.496] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Disconnected
+[23Dec2024 19:13:22.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[23Dec2024 19:13:29.748] [Server thread/INFO] [Console/]: <Crying_Prophet> ya vengo
+[23Dec2024 19:13:35.513] [Server thread/INFO] [Console/]: <Crying_Prophet> mosca con el zombie
+[23Dec2024 19:13:43.985] [Server thread/INFO] [Console/]: <Dylan_HHH> oki
+[23Dec2024 19:13:50.888] [Server thread/INFO] [Console/]: <Crying_Prophet> voy a comer
+[23Dec2024 19:14:32.605] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:14:32.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 19:16:06.515] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/AabbHelper$1
+[23Dec2024 19:16:42.092] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/block/PistonBlock$1BlockList$877e3cd8bbdc40398b0b3390152f41dd (originally io/izzel/arclight/common/mixin/core/block/PistonBlockMixin$1BlockList)
+[23Dec2024 19:16:42.101] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/tileentity/PistonTileEntity$1
