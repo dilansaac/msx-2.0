@@ -293,3 +293,15 @@
 [23Dec2024 20:03:49.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has made the advancement [Hot Stuff]
 [23Dec2024 20:04:08.296] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armorer'/124, l='ServerLevel[world]', x=304.70, y=62.00, z=-36.30] died, message: 'Armorer was slain by Husk'
 [23Dec2024 20:04:56.547] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/127, l='ServerLevel[world]', x=312.70, y=62.00, z=-36.30] died, message: 'Fletcher was slain by Husk'
+[23Dec2024 20:11:01.046] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[23Dec2024 20:11:01.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[23Dec2024 20:11:18.805] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[23Dec2024 20:11:21.354] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1812d5ed
+[23Dec2024 20:11:21.358] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:41145] logged in with entity id 15676 at (305.5282990649057, 63.0, -40.69999998807907)
+[23Dec2024 20:11:51.498] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[23Dec2024 20:11:51.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[23Dec2024 20:11:51.548] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Dec2024 20:12:42.372] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[23Dec2024 20:12:43.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b64dde0
+[23Dec2024 20:12:43.807] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.101.22.229:42579] logged in with entity id 15903 at (305.5282990649057, 63.0, -40.69999998807907)
+[23Dec2024 20:16:20.297] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/136, l='ServerLevel[world]', x=318.70, y=62.00, z=-36.30] died, message: 'Librarian was slain by Husk'
