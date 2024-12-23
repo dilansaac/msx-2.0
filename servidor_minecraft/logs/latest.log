@@ -19,3 +19,5 @@
 [23Dec2024 01:55:55.652] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [23Dec2024 01:55:57.237] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4c4e16f
 [23Dec2024 01:55:57.242] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:36501] logged in with entity id 20315 at (329.45487527339435, 71.0, 11.804822628592794)
+[23Dec2024 02:10:03.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Ol' Betsy]
+[23Dec2024 02:10:25.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Take Aim]
