@@ -2542,3 +2542,15 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [23Dec2024 19:55:54.356] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
 [23Dec2024 19:55:58.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4141ms or 82 ticks behind
 [23Dec2024 19:55:58.556] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved too quickly! -17.163258156312054,1.0013359791121417,2.2410398073225934
+[23Dec2024 19:59:36.754] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:59:36.757] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 20:02:33.001] [Server thread/INFO] [Console/]: <Crying_Prophet> loco
+[23Dec2024 20:02:40.620] [Server thread/INFO] [Console/]: <Crying_Prophet> se me olvido que estabas en la llamada
+[23Dec2024 20:02:49.175] [Server thread/INFO] [Console/]: <Crying_Prophet> se lo estaba mostrando a freddy
+[23Dec2024 20:02:54.120] [Server thread/INFO] [Console/]: <Crying_Prophet> vuelve a entrar
+[23Dec2024 20:03:31.846] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/125, l='ServerLevel[world]', x=308.30, y=62.00, z=-36.30] died, message: 'Weaponsmith was slain by Husk'
+[23Dec2024 20:03:49.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz has made the advancement [Hot Stuff]
+[23Dec2024 20:04:08.296] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armorer'/124, l='ServerLevel[world]', x=304.70, y=62.00, z=-36.30] died, message: 'Armorer was slain by Husk'
+[23Dec2024 20:04:36.706] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:04:36.709] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 20:04:56.547] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/127, l='ServerLevel[world]', x=312.70, y=62.00, z=-36.30] died, message: 'Fletcher was slain by Husk'
