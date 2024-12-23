@@ -195,3 +195,14 @@
 [23Dec2024 18:41:47.559] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [23Dec2024 18:41:49.256] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@d8b1d4d
 [23Dec2024 18:41:49.286] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:60217] logged in with entity id 95 at (321.49454929783116, 63.0, -39.632088954247685)
+[23Dec2024 18:54:37.537] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[23Dec2024 18:54:39.276] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@14b93249
+[23Dec2024 18:54:39.286] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.153.157.103:38329] logged in with entity id 2413 at (302.8742358672602, 82.0, -27.410471623676116)
+[23Dec2024 18:56:36.068] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[23Dec2024 18:56:56.878] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5fc65fac
+[23Dec2024 18:56:56.890] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:48139] logged in with entity id 2792 at (331.5708942198455, 71.0, 11.997546910576755)
+[23Dec2024 18:57:09.998] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[23Dec2024 18:57:10.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[23Dec2024 18:57:14.883] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[23Dec2024 18:57:16.461] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4cb824a7
+[23Dec2024 18:57:16.467] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.138.193.100:60351] logged in with entity id 2828 at (331.5708942198455, 71.0, 11.997546910576755)
