@@ -305,3 +305,23 @@
 [23Dec2024 20:12:43.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b64dde0
 [23Dec2024 20:12:43.807] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.101.22.229:42579] logged in with entity id 15903 at (305.5282990649057, 63.0, -40.69999998807907)
 [23Dec2024 20:16:20.297] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/136, l='ServerLevel[world]', x=318.70, y=62.00, z=-36.30] died, message: 'Librarian was slain by Husk'
+[23Dec2024 20:19:19.151] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH was kicked for floating too long!
+[23Dec2024 20:19:19.153] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Flying is not enabled on this server
+[23Dec2024 20:19:19.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[23Dec2024 20:19:19.201] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Dec2024 20:19:48.381] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[23Dec2024 20:19:49.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@308e8797
+[23Dec2024 20:19:49.809] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:50735] logged in with entity id 17058 at (335.3323071259912, 68.84610397459554, -17.334803196322127)
+[23Dec2024 20:20:04.078] [Server thread/INFO] [Console/]: <KaleSsz> papus
+[23Dec2024 20:20:08.827] [Server thread/INFO] [Console/]: <KaleSsz> toquen sus camas
+[23Dec2024 20:20:09.467] [Server thread/INFO] [Console/]: <Crying_Prophet> qie fue
+[23Dec2024 20:22:38.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has reached the goal [Zombie Doctor]
+[23Dec2024 20:22:58.393] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/96, l='ServerLevel[world]', x=320.51, y=63.00, z=-36.48] died, message: 'Librarian burned to death'
+[23Dec2024 20:23:38.383] [Server thread/INFO] [Console/]: <Crying_Prophet> pq quitas lo que hice
+[23Dec2024 20:23:42.973] [Server thread/INFO] [Console/]: <Crying_Prophet> aweonao
+[23Dec2024 20:23:45.953] [Server thread/INFO] [Console/]: <KaleSsz> que
+[23Dec2024 20:23:49.966] [Server thread/INFO] [Console/]: <Crying_Prophet> so
+[23Dec2024 20:23:58.266] [Server thread/INFO] [Console/]: <KaleSsz> que quité?
+[23Dec2024 20:26:28.051] [Server thread/INFO] [Console/]: <Dylan_HHH> kale entra al dc
+[23Dec2024 20:27:09.707] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16531, l='ServerLevel[world]', x=323.63, y=68.00, z=-31.26] died, message: 'Villager burned to death'
+[23Dec2024 20:28:58.360] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17680, l='ServerLevel[world]', x=303.75, y=68.00, z=-12.35] died, message: 'Villager was slain by KaleSsz'
