@@ -2852,3 +2852,7 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [23Dec2024 20:26:28.051] [Server thread/INFO] [Console/]: <Dylan_HHH> kale entra al dc
 [23Dec2024 20:27:09.707] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16531, l='ServerLevel[world]', x=323.63, y=68.00, z=-31.26] died, message: 'Villager burned to death'
 [23Dec2024 20:28:58.360] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17680, l='ServerLevel[world]', x=303.75, y=68.00, z=-12.35] died, message: 'Villager was slain by KaleSsz'
+[23Dec2024 20:29:36.814] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:29:36.817] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 20:34:36.913] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:34:36.916] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

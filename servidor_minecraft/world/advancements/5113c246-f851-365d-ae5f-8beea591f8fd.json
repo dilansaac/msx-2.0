@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-23 20:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 22:47:57 +0000"
@@ -1367,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-23 20:29:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 03:59:47 +0000"
@@ -1937,6 +1949,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-20 00:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-23 20:28:49 +0000"
     },
     "done": true
   },
