@@ -379,3 +379,6 @@
 [23Dec2024 21:38:19.370] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [23Dec2024 21:38:20.747] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@53df7b03
 [23Dec2024 21:38:20.752] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:57689] logged in with entity id 29087 at (317.6099478372483, 63.0, -40.468487747149936)
+[23Dec2024 21:55:12.113] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[23Dec2024 21:55:13.752] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@91585ac
+[23Dec2024 21:55:13.757] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:33245] logged in with entity id 31046 at (321.0509339917709, 63.25, -40.88749998807907)
