@@ -255,3 +255,12 @@
 [23Dec2024 19:13:35.513] [Server thread/INFO] [Console/]: <Crying_Prophet> mosca con el zombie
 [23Dec2024 19:13:43.985] [Server thread/INFO] [Console/]: <Dylan_HHH> oki
 [23Dec2024 19:13:50.888] [Server thread/INFO] [Console/]: <Crying_Prophet> voy a comer
+[23Dec2024 19:19:58.514] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[23Dec2024 19:20:00.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e07efdf
+[23Dec2024 19:20:00.162] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.59.242.227:34241] logged in with entity id 6193 at (300.30000001192093, 82.0, -33.85551500893915)
+[23Dec2024 19:28:01.046] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KaleSsz lost connection: Timed out
+[23Dec2024 19:28:01.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz left the game
+[23Dec2024 19:28:01.116] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Dec2024 19:28:07.064] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KaleSsz is 5d037630-0bd9-3d33-9502-32a044f5f237
+[23Dec2024 19:28:08.953] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@767870ec
+[23Dec2024 19:28:08.958] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KaleSsz[/127.111.46.207:39471] logged in with entity id 7455 at (301.0322644416193, 88.0, -20.29774580357323)
