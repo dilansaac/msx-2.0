@@ -360,3 +360,7 @@
 [23Dec2024 20:52:12.189] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [23Dec2024 20:52:13.600] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f4c4968
 [23Dec2024 20:52:13.604] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.232.193.90:34041] logged in with entity id 22737 at (339.0762086962038, 68.5, -58.66888469728733)
+[23Dec2024 21:01:14.998] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/97, l='ServerLevel[world]', x=320.70, y=63.00, z=-42.58] died, message: 'Villager was slain by Zombie'
+[23Dec2024 21:06:02.299] [Server thread/INFO] [Console/]: <Crying_Prophet> kaleb
+[23Dec2024 21:06:05.033] [Server thread/INFO] [Console/]: <Crying_Prophet> hdp
+[23Dec2024 21:06:24.269] [Server thread/INFO] [Console/]: <Crying_Prophet> tu eres el que quita la mesa de crafteo que yo tengo frente a la casa?=
