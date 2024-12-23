@@ -325,3 +325,23 @@
 [23Dec2024 20:26:28.051] [Server thread/INFO] [Console/]: <Dylan_HHH> kale entra al dc
 [23Dec2024 20:27:09.707] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16531, l='ServerLevel[world]', x=323.63, y=68.00, z=-31.26] died, message: 'Villager burned to death'
 [23Dec2024 20:28:58.360] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17680, l='ServerLevel[world]', x=303.75, y=68.00, z=-12.35] died, message: 'Villager was slain by KaleSsz'
+[23Dec2024 20:39:37.005] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[23Dec2024 20:39:37.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[23Dec2024 20:39:37.038] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Dec2024 20:40:42.023] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[23Dec2024 20:40:43.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@28ef1c7b
+[23Dec2024 20:40:43.488] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:47343] logged in with entity id 20951 at (344.9868407221691, 68.33717622418739, -19.49406514323517)
+[23Dec2024 20:42:34.857] [Server thread/INFO] [Console/]: <Crying_Prophet> kale
+[23Dec2024 20:42:41.838] [Server thread/INFO] [Console/]: <Crying_Prophet> entra a discord chamo
+[23Dec2024 20:43:29.951] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/20349, l='ServerLevel[world]', x=317.82, y=68.00, z=-4.52] died, message: 'Villager was slain by KaleSsz'
+[23Dec2024 20:44:04.747] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/99, l='ServerLevel[world]', x=320.49, y=62.00, z=-36.30] died, message: 'Villager was slain by Husk'
+[23Dec2024 20:46:19.347] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/21447, l='ServerLevel[world]', x=315.53, y=68.00, z=-19.81] died, message: 'Villager tried to swim in lava'
+[23Dec2024 20:46:42.295] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/98, l='ServerLevel[world]', x=321.31, y=68.00, z=-35.63] died, message: 'Villager burned to death'
+[23Dec2024 20:46:42.296] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/100, l='ServerLevel[world]', x=321.32, y=68.00, z=-35.54] died, message: 'Villager burned to death'
+[23Dec2024 20:46:42.296] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/102, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.79] died, message: 'Villager burned to death'
+[23Dec2024 20:46:42.297] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/103, l='ServerLevel[world]', x=321.70, y=68.00, z=-36.21] died, message: 'Villager burned to death'
+[23Dec2024 20:46:42.298] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/107, l='ServerLevel[world]', x=321.31, y=68.00, z=-35.62] died, message: 'Villager burned to death'
+[23Dec2024 20:46:42.300] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4040, l='ServerLevel[world]', x=321.30, y=68.00, z=-35.94] died, message: 'Villager burned to death'
+[23Dec2024 20:46:42.301] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6812, l='ServerLevel[world]', x=321.31, y=68.00, z=-36.53] died, message: 'Villager burned to death'
+[23Dec2024 20:47:09.090] [Server thread/INFO] [Console/]: <KaleSsz> tienen arena?
+[23Dec2024 20:47:16.426] [Server thread/INFO] [Console/]: <KaleSsz> sino pa ir a buscar
