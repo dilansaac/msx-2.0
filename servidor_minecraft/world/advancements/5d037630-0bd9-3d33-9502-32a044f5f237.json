@@ -733,6 +733,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-11 00:35:40 +0000",
+      "minecraft:skeleton": "2024-12-23 19:50:33 +0000",
       "minecraft:husk": "2024-12-10 04:33:01 +0000",
       "minecraft:zombie": "2024-12-10 03:17:32 +0000"
     },
@@ -1433,6 +1434,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-10 03:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-23 19:48:59 +0000"
     },
     "done": true
   },

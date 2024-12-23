@@ -2527,3 +2527,18 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [23Dec2024 19:42:59.289] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/inventory/container/RepairContainerMixin$1
 [23Dec2024 19:44:32.877] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23Dec2024 19:44:32.882] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 19:49:32.813] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:49:32.820] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 19:52:17.460] [Server thread/INFO] [Console/]: <Crying_Prophet> kale
+[23Dec2024 19:52:25.810] [Server thread/INFO] [Console/]: <Crying_Prophet> no mates a ese husk
+[23Dec2024 19:52:36.903] [Server thread/INFO] [Console/]: <KaleSsz> mira
+[23Dec2024 19:52:49.507] [Server thread/INFO] [Console/]: <Dylan_HHH> dilo
+[23Dec2024 19:53:24.659] [Server thread/INFO] [Console/]: <Crying_Prophet> kale
+[23Dec2024 19:53:27.763] [Server thread/INFO] [Console/]: <Crying_Prophet> mira el arbol
+[23Dec2024 19:54:32.725] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:54:32.729] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 19:54:53.499] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/RailState$1
+[23Dec2024 19:55:54.351] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyLegacyMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy
+[23Dec2024 19:55:54.356] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[23Dec2024 19:55:58.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4141ms or 82 ticks behind
+[23Dec2024 19:55:58.556] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved too quickly! -17.163258156312054,1.0013359791121417,2.2410398073225934

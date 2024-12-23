@@ -276,3 +276,12 @@
 [23Dec2024 19:34:53.806] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@428ead60
 [23Dec2024 19:34:53.812] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.144.18.75:36479] logged in with entity id 8923 at (301.8560493913053, 68.0, -40.17010476434491)
 [23Dec2024 19:35:58.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KaleSsz fell from a high place
+[23Dec2024 19:52:17.460] [Server thread/INFO] [Console/]: <Crying_Prophet> kale
+[23Dec2024 19:52:25.810] [Server thread/INFO] [Console/]: <Crying_Prophet> no mates a ese husk
+[23Dec2024 19:52:36.903] [Server thread/INFO] [Console/]: <KaleSsz> mira
+[23Dec2024 19:52:49.507] [Server thread/INFO] [Console/]: <Dylan_HHH> dilo
+[23Dec2024 19:53:24.659] [Server thread/INFO] [Console/]: <Crying_Prophet> kale
+[23Dec2024 19:53:27.763] [Server thread/INFO] [Console/]: <Crying_Prophet> mira el arbol
+[23Dec2024 19:55:54.356] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[23Dec2024 19:55:58.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4141ms or 82 ticks behind
+[23Dec2024 19:55:58.556] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved too quickly! -17.163258156312054,1.0013359791121417,2.2410398073225934
