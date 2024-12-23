@@ -3159,3 +3159,7 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [23Dec2024 21:06:02.299] [Server thread/INFO] [Console/]: <Crying_Prophet> kaleb
 [23Dec2024 21:06:05.033] [Server thread/INFO] [Console/]: <Crying_Prophet> hdp
 [23Dec2024 21:06:24.269] [Server thread/INFO] [Console/]: <Crying_Prophet> tu eres el que quita la mesa de crafteo que yo tengo frente a la casa?=
+[23Dec2024 21:09:36.747] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:09:36.749] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Dec2024 21:14:36.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:14:36.695] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
