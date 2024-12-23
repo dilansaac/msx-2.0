@@ -13,3 +13,9 @@
 [23Dec2024 01:49:45.245] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@284d7f4a
 [23Dec2024 01:49:45.254] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:60913] logged in with entity id 19241 at (328.93164615000546, 71.0, 9.6720660751377)
 [23Dec2024 01:49:57.786] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH moved wrongly!
+[23Dec2024 01:55:45.786] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[23Dec2024 01:55:45.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[23Dec2024 01:55:45.832] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Dec2024 01:55:55.652] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[23Dec2024 01:55:57.237] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4c4e16f
+[23Dec2024 01:55:57.242] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:36501] logged in with entity id 20315 at (329.45487527339435, 71.0, 11.804822628592794)
