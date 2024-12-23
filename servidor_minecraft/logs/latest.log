@@ -364,3 +364,9 @@
 [23Dec2024 21:06:02.299] [Server thread/INFO] [Console/]: <Crying_Prophet> kaleb
 [23Dec2024 21:06:05.033] [Server thread/INFO] [Console/]: <Crying_Prophet> hdp
 [23Dec2024 21:06:24.269] [Server thread/INFO] [Console/]: <Crying_Prophet> tu eres el que quita la mesa de crafteo que yo tengo frente a la casa?=
+[23Dec2024 21:25:01.348] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[23Dec2024 21:25:01.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[23Dec2024 21:25:01.397] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Dec2024 21:26:17.769] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[23Dec2024 21:26:19.302] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@60acffe6
+[23Dec2024 21:26:19.308] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:53337] logged in with entity id 27354 at (316.28020561397676, 63.125, -40.724141021369825)
