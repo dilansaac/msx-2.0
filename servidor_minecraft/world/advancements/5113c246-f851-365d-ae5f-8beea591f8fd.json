@@ -571,6 +571,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-24 01:12:52 +0000",
       "minecraft:skeleton": "2024-12-10 03:21:50 +0000",
       "minecraft:ghast": "2024-12-24 01:08:15 +0000",
       "minecraft:magma_cube": "2024-12-18 21:55:46 +0000",
@@ -579,6 +580,7 @@
       "minecraft:phantom": "2024-12-19 03:55:38 +0000",
       "minecraft:zombified_piglin": "2024-12-20 00:02:10 +0000",
       "minecraft:witch": "2024-12-18 22:55:41 +0000",
+      "minecraft:wither_skeleton": "2024-12-24 01:12:02 +0000",
       "minecraft:husk": "2024-12-10 03:20:43 +0000",
       "minecraft:enderman": "2024-12-10 03:30:55 +0000",
       "minecraft:zombie": "2024-12-10 03:20:48 +0000",
@@ -1738,6 +1740,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-24 01:13:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-10 23:25:36 +0000"
@@ -2188,6 +2196,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-24 01:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-10 03:21:29 +0000"
@@ -2377,6 +2391,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-18 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-24 01:13:46 +0000"
     },
     "done": true
   },

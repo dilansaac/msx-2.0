@@ -14,3 +14,12 @@
 [24Dec2024 01:05:46.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4bfbbb23
 [24Dec2024 01:05:46.056] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.138.193.100:45035] logged in with entity id 50082 at (11.911273618127275, 116.0, -7.505872269373475)
 [24Dec2024 01:11:27.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [A Terrible Fortress]
+[24Dec2024 01:13:46.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Spooky Scary Skeleton]
+[24Dec2024 01:14:47.743] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[24Dec2024 01:14:47.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[24Dec2024 01:15:55.729] [User Authenticator #23/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[24Dec2024 01:15:57.749] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e4547f5
+[24Dec2024 01:15:57.756] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.138.193.100:33841] logged in with entity id 51396 at (296.16184497273923, 68.0, -43.80250503522619)
+[24Dec2024 01:16:21.551] [User Authenticator #24/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Dec2024 01:16:23.114] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e67b56a
+[24Dec2024 01:16:23.131] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.144.18.75:36539] logged in with entity id 51488 at (164.7278660065238, 73.0, 62.39540569845006)
