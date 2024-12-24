@@ -61,3 +61,9 @@
 [24Dec2024 01:48:08.002] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1289485e
 [24Dec2024 01:48:08.006] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.138.193.100:60529] logged in with entity id 59322 at (204.46549855454393, 80.875, 49.040244169991915)
 [24Dec2024 01:51:50.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has made the advancement [Tactical Fishing]
+[24Dec2024 01:57:31.150] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[24Dec2024 01:57:31.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 01:57:31.203] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 01:58:46.552] [User Authenticator #30/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 01:58:47.903] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e3c434c
+[24Dec2024 01:58:47.907] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:58953] logged in with entity id 62361 at (304.55761998938, 63.0, -39.93097168016512)
