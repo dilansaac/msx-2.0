@@ -2602,3 +2602,19 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [24Dec2024 22:52:47.728] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_16_R3/block/CraftBed
 [24Dec2024 22:52:47.728] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_16_R3/block/CraftBed:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
 [24Dec2024 22:52:48.077] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory$1
+[24Dec2024 22:53:47.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: freddy25 was shot by Dylan_HHH
+[24Dec2024 22:54:03.050] [Server thread/INFO] [Console/]: <freddy25> lloro
+[24Dec2024 22:55:54.704] [Server thread/INFO] [Console/]: <freddy25> donde esra
+[24Dec2024 22:55:57.970] [Server thread/INFO] [Console/]: <freddy25> estas
+[24Dec2024 22:57:05.700] [Server thread/INFO] [Console/]: <Dylan_HHH> en la casa
+[24Dec2024 22:57:29.356] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 22:57:29.367] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 22:58:31.713] [Server thread/INFO] [Console/]: <freddy25> pa dondevas
+[24Dec2024 22:58:39.350] [Server thread/INFO] [Console/]: <Dylan_HHH> a matar
+[24Dec2024 22:58:44.005] [Server thread/INFO] [Console/]: <Dylan_HHH> mostros
+[24Dec2024 22:58:48.974] [Server thread/INFO] [Console/]: <freddy25> ajjjajajajaja
+[24Dec2024 22:59:17.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: freddy25 has made the advancement [Sweet Dreams]
+[24Dec2024 22:59:40.154] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: freddy25 lost connection: Disconnected
+[24Dec2024 22:59:40.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: freddy25 left the game
+[24Dec2024 23:02:29.506] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:02:29.510] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
