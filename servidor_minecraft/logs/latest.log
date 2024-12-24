@@ -123,3 +123,12 @@
 [24Dec2024 02:46:31.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23466ed3
 [24Dec2024 02:46:31.707] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.144.18.75:55029] logged in with entity id 74568 at (291.34232920595724, 96.0, 4.435174198266335)
 [24Dec2024 02:46:39.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex was doomed to fall by Ghast
+[24Dec2024 02:53:36.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex was doomed to fall
+[24Dec2024 02:59:15.399] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[24Dec2024 02:59:15.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[24Dec2024 03:00:53.747] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[24Dec2024 03:00:53.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 03:00:53.797] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 03:01:47.833] [User Authenticator #39/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 03:01:49.251] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@35ceacad
+[24Dec2024 03:01:49.254] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:50325] logged in with entity id 78223 at (304.7282050760705, 82.0, -22.30000001192093)
