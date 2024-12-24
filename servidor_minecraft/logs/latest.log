@@ -112,3 +112,14 @@
 [24Dec2024 02:25:08.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Spooky Scary Skeleton]
 [24Dec2024 02:30:29.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has made the advancement [A Terrible Fortress]
 [24Dec2024 02:32:52.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has made the advancement [Into Fire]
+[24Dec2024 02:44:00.999] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[24Dec2024 02:44:01.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[24Dec2024 02:44:05.696] [User Authenticator #37/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[24Dec2024 02:44:07.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@dacff69
+[24Dec2024 02:44:07.657] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.144.18.75:35527] logged in with entity id 73660 at (296.9064809912986, 102.0, 4.5586373716641635)
+[24Dec2024 02:44:37.308] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[24Dec2024 02:44:37.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[24Dec2024 02:46:29.733] [User Authenticator #38/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[24Dec2024 02:46:31.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23466ed3
+[24Dec2024 02:46:31.707] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.144.18.75:55029] logged in with entity id 74568 at (291.34232920595724, 96.0, 4.435174198266335)
+[24Dec2024 02:46:39.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex was doomed to fall by Ghast
