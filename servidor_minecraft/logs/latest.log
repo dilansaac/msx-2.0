@@ -211,3 +211,9 @@
 [24Dec2024 19:53:12.543] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/112, l='ServerLevel[world]', x=320.30, y=62.00, z=-36.30] died, message: 'Farmer was slain by Husk'
 [24Dec2024 19:57:28.693] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armorer'/101, l='ServerLevel[world]', x=304.70, y=62.00, z=-36.30] died, message: 'Armorer was slain by Husk'
 [24Dec2024 19:59:40.794] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/100, l='ServerLevel[world]', x=314.70, y=62.00, z=-42.70] died, message: 'Fletcher was slain by Zombie'
+[24Dec2024 20:09:55.297] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[24Dec2024 20:09:55.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 20:09:55.360] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 20:10:58.257] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 20:11:00.064] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3208389f
+[24Dec2024 20:11:00.077] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:35417] logged in with entity id 16857 at (325.9869569732291, 28.5, 13.98432058635518)
