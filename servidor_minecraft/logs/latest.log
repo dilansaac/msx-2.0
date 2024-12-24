@@ -204,3 +204,6 @@
 [24Dec2024 18:48:30.580] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
 [24Dec2024 18:48:34.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3767ms or 75 ticks behind
 [24Dec2024 19:02:09.945] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/97, l='ServerLevel[world]', x=306.70, y=62.00, z=-36.30] died, message: 'Librarian was slain by Husk'
+[24Dec2024 19:33:12.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Zombie
+[24Dec2024 19:33:52.748] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /tp Dylan_HHH 289.5 27 -428.5
+[24Dec2024 19:34:40.563] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /tp Dylan_HHH 301.5 14 -76.5
