@@ -276,3 +276,18 @@
 [24Dec2024 22:59:17.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: freddy25 has made the advancement [Sweet Dreams]
 [24Dec2024 22:59:40.154] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: freddy25 lost connection: Disconnected
 [24Dec2024 22:59:40.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: freddy25 left the game
+[24Dec2024 23:06:17.950] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[24Dec2024 23:06:17.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 23:06:17.992] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 23:06:50.282] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 23:06:51.897] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7993679c
+[24Dec2024 23:06:51.902] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.161.163.130:48641] logged in with entity id 39463 at (312.97513771035113, 63.0, -38.77822229026695)
+[24Dec2024 23:07:21.953] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[24Dec2024 23:07:21.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 23:07:21.994] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 23:07:27.698] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 23:07:29.602] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a3957cb
+[24Dec2024 23:07:29.611] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:48643] logged in with entity id 39567 at (313.15198362914174, 63.0, -38.98901763926066)
+[24Dec2024 23:09:19.693] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/102, l='ServerLevel[world]', x=312.70, y=62.00, z=-36.30] died, message: 'Fletcher was slain by Husk'
+[24Dec2024 23:11:12.893] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/113, l='ServerLevel[world]', x=320.30, y=62.00, z=-42.70] died, message: 'Librarian was slain by Zombie'
+[24Dec2024 23:12:31.694] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/96, l='ServerLevel[world]', x=312.70, y=62.00, z=-42.70] died, message: 'Toolsmith was slain by Zombie'
