@@ -1845,3 +1845,15 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [24Dec2024 18:54:26.940] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/gen/feature/structure/MineshaftPieces$1
 [24Dec2024 18:57:29.736] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Dec2024 18:57:29.744] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 19:01:13.471] [Server thread/DEBUG] [mixin/]: Mixing util.IWorldPosCallableMixin from mixins.arclight.core.json into net.minecraft.util.IWorldPosCallable
+[24Dec2024 19:01:13.474] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/util/IWorldPosCallable$1Anonymous$0fd65e113d924ec0b6fc6a8420c2f5c4 (originally io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin$1Anonymous)
+[24Dec2024 19:01:57.423] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/HorizontalFaceBlock$1
+[24Dec2024 19:01:57.482] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/AabbHelper$1
+[24Dec2024 19:02:09.945] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/97, l='ServerLevel[world]', x=306.70, y=62.00, z=-36.30] died, message: 'Librarian was slain by Husk'
+[24Dec2024 19:02:12.342] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/block/PistonBlock$1BlockList$f8ea00cc31e94142a6113f8a692f9512 (originally io/izzel/arclight/common/mixin/core/block/PistonBlockMixin$1BlockList)
+[24Dec2024 19:02:12.351] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/tileentity/PistonTileEntity$1
+[24Dec2024 19:02:29.519] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 19:02:29.523] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 19:07:29.395] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 19:07:29.408] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 19:08:15.118] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/inventory/container/RepairContainerMixin$1
