@@ -207,3 +207,7 @@
 [24Dec2024 19:33:12.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Zombie
 [24Dec2024 19:33:52.748] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /tp Dylan_HHH 289.5 27 -428.5
 [24Dec2024 19:34:40.563] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /tp Dylan_HHH 301.5 14 -76.5
+[24Dec2024 19:52:38.747] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/106, l='ServerLevel[world]', x=316.70, y=62.00, z=-42.70] died, message: 'Librarian was slain by Zombie'
+[24Dec2024 19:53:12.543] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/112, l='ServerLevel[world]', x=320.30, y=62.00, z=-36.30] died, message: 'Farmer was slain by Husk'
+[24Dec2024 19:57:28.693] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armorer'/101, l='ServerLevel[world]', x=304.70, y=62.00, z=-36.30] died, message: 'Armorer was slain by Husk'
+[24Dec2024 19:59:40.794] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/100, l='ServerLevel[world]', x=314.70, y=62.00, z=-42.70] died, message: 'Fletcher was slain by Zombie'
