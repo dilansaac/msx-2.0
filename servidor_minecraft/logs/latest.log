@@ -222,3 +222,6 @@
 [24Dec2024 20:34:19.003] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [24Dec2024 20:34:20.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18bcc156
 [24Dec2024 20:34:20.507] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:49445] logged in with entity id 20505 at (267.13457252966367, 20.0, -120.30000001192093)
+[24Dec2024 20:57:02.643] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/93, l='ServerLevel[world]', x=304.30, y=62.00, z=-42.70] died, message: 'Fletcher was slain by Zombie'
+[24Dec2024 20:57:20.693] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/94, l='ServerLevel[world]', x=306.70, y=62.00, z=-42.70] died, message: 'Fletcher was slain by Zombie'
+[24Dec2024 20:57:42.743] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/95, l='ServerLevel[world]', x=308.30, y=62.00, z=-42.70] died, message: 'Fletcher was slain by Zombie'
