@@ -100,3 +100,11 @@
 [24Dec2024 02:12:43.113] [User Authenticator #35/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [24Dec2024 02:12:44.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5735541a
 [24Dec2024 02:12:44.506] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:40821] logged in with entity id 65243 at (321.2474862539191, 70.01490840433172, -14.359965518794226)
+[24Dec2024 02:15:44.897] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[24Dec2024 02:15:44.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 02:15:44.946] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 02:16:02.880] [User Authenticator #36/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 02:16:04.351] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@36378242
+[24Dec2024 02:16:04.355] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:60299] logged in with entity id 65799 at (314.12516814536554, 63.08339615557484, -38.479965149358684)
+[24Dec2024 02:19:24.343] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/131, l='ServerLevel[world]', x=310.45, y=63.00, z=-42.49] died, message: 'Librarian burned to death'
+[24Dec2024 02:21:39.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [A Terrible Fortress]
