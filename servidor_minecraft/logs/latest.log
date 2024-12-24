@@ -291,3 +291,6 @@
 [24Dec2024 23:09:19.693] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/102, l='ServerLevel[world]', x=312.70, y=62.00, z=-36.30] died, message: 'Fletcher was slain by Husk'
 [24Dec2024 23:11:12.893] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/113, l='ServerLevel[world]', x=320.30, y=62.00, z=-42.70] died, message: 'Librarian was slain by Zombie'
 [24Dec2024 23:12:31.694] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/96, l='ServerLevel[world]', x=312.70, y=62.00, z=-42.70] died, message: 'Toolsmith was slain by Zombie'
+[24Dec2024 23:23:30.734] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Dec2024 23:23:33.766] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3fb000a8
+[24Dec2024 23:23:33.775] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.83.41.15:33307] logged in with entity id 41738 at (335.6605732799584, 68.0, -19.493764512796666)
