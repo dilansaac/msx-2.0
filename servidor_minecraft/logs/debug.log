@@ -5283,3 +5283,15 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [24Dec2024 02:19:36.882] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Dec2024 02:19:36.886] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Dec2024 02:21:39.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [A Terrible Fortress]
+[24Dec2024 02:23:19.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Into Fire]
+[24Dec2024 02:24:36.687] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:24:36.690] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 02:25:08.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Spooky Scary Skeleton]
+[24Dec2024 02:29:36.804] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:29:36.807] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 02:30:29.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has made the advancement [A Terrible Fortress]
+[24Dec2024 02:30:35.834] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/StairsBlock$1
+[24Dec2024 02:30:35.900] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/WallBlock$1
+[24Dec2024 02:30:35.951] [Worker-Main-2/DEBUG] [mixin/]: Mixing command.arguments.BlockStateParserMixin from mixins.arclight.core.json into net.minecraft.command.arguments.BlockStateParser
+[24Dec2024 02:30:36.148] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/entity/Entity$1
+[24Dec2024 02:32:52.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has made the advancement [Into Fire]

@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-24 02:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-10 03:05:16 +0000"
@@ -523,6 +529,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-19 01:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-24 02:25:08 +0000"
     },
     "done": true
   },
@@ -906,11 +918,15 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-24 02:22:36 +0000",
       "minecraft:skeleton": "2024-12-18 22:25:47 +0000",
+      "minecraft:ghast": "2024-12-24 02:24:08 +0000",
+      "minecraft:magma_cube": "2024-12-24 02:26:07 +0000",
       "minecraft:spider": "2024-12-18 22:15:25 +0000",
       "minecraft:creeper": "2024-12-19 01:44:25 +0000",
       "minecraft:phantom": "2024-12-21 04:03:26 +0000",
       "minecraft:witch": "2024-12-19 02:17:19 +0000",
+      "minecraft:wither_skeleton": "2024-12-24 02:22:50 +0000",
       "minecraft:husk": "2024-12-10 03:20:51 +0000",
       "minecraft:enderman": "2024-12-19 02:01:38 +0000",
       "minecraft:zombie": "2024-12-10 03:20:13 +0000",
@@ -1152,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 02:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 00:14:20 +0000"
@@ -1209,6 +1231,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2024-12-19 02:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-24 02:21:39 +0000"
     },
     "done": true
   },
@@ -1476,6 +1504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-24 02:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-18 22:30:27 +0000"
@@ -1578,6 +1612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 02:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 00:13:34 +0000"
@@ -1647,6 +1687,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-12-23 02:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-24 02:23:19 +0000"
     },
     "done": true
   },

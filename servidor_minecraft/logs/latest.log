@@ -108,3 +108,7 @@
 [24Dec2024 02:16:04.355] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:60299] logged in with entity id 65799 at (314.12516814536554, 63.08339615557484, -38.479965149358684)
 [24Dec2024 02:19:24.343] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/131, l='ServerLevel[world]', x=310.45, y=63.00, z=-42.49] died, message: 'Librarian burned to death'
 [24Dec2024 02:21:39.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [A Terrible Fortress]
+[24Dec2024 02:23:19.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Into Fire]
+[24Dec2024 02:25:08.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH has made the advancement [Spooky Scary Skeleton]
+[24Dec2024 02:30:29.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has made the advancement [A Terrible Fortress]
+[24Dec2024 02:32:52.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has made the advancement [Into Fire]
