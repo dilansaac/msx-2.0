@@ -294,3 +294,16 @@
 [24Dec2024 23:23:30.734] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
 [24Dec2024 23:23:33.766] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3fb000a8
 [24Dec2024 23:23:33.775] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.83.41.15:33307] logged in with entity id 41738 at (335.6605732799584, 68.0, -19.493764512796666)
+[24Dec2024 23:25:04.008] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
+[24Dec2024 23:25:04.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[24Dec2024 23:25:04.150] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 23:27:17.100] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Dec2024 23:27:18.565] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7dc81168
+[24Dec2024 23:27:18.571] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.144.18.75:42601] logged in with entity id 42286 at (304.60152797798105, 67.0, -17.336545880983454)
+[24Dec2024 23:30:12.809] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[24Dec2024 23:30:14.870] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@253b7a9b
+[24Dec2024 23:30:14.876] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.138.193.100:41769] logged in with entity id 42721 at (304.99154076542396, 63.0, -38.90633667889255)
+[24Dec2024 23:30:16.079] [Server thread/INFO] [Console/]: <Dylan_HHH> si quieres comprar poder v me avisas para yo pagarla
+[24Dec2024 23:30:23.373] [Server thread/INFO] [Console/]: <Dylan_HHH> tengo el descuento
+[24Dec2024 23:30:34.713] [Server thread/INFO] [Console/]: <Crying_Prophet> ya mate al de power 4
+[24Dec2024 23:30:38.643] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/99, l='ServerLevel[world]', x=316.42, y=63.00, z=-36.53] died, message: 'Librarian burned to death'

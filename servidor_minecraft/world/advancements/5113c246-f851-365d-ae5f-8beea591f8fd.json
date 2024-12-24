@@ -631,6 +631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-24 23:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2024-12-18 23:02:32 +0000"
@@ -1353,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-24 23:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-10 03:21:29 +0000"
@@ -1797,6 +1809,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-24 01:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-24 23:27:38 +0000"
     },
     "done": true
   },
