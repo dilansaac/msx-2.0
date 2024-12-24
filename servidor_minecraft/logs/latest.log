@@ -307,3 +307,44 @@
 [24Dec2024 23:30:23.373] [Server thread/INFO] [Console/]: <Dylan_HHH> tengo el descuento
 [24Dec2024 23:30:34.713] [Server thread/INFO] [Console/]: <Crying_Prophet> ya mate al de power 4
 [24Dec2024 23:30:38.643] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/99, l='ServerLevel[world]', x=316.42, y=63.00, z=-36.53] died, message: 'Librarian burned to death'
+[24Dec2024 23:33:42.755] [Server thread/INFO] [Console/]: <Dylan_HHH> le voy a dar mi arco viejo a josue
+[24Dec2024 23:33:53.666] [Server thread/INFO] [Console/]: <Dylan_HHH> miralo
+[24Dec2024 23:34:05.723] [Server thread/INFO] [Console/]: <Crying_Prophet> ta bueno
+[24Dec2024 23:34:10.551] [Server thread/INFO] [Console/]: <Dylan_HHH> ta chetao
+[24Dec2024 23:36:11.952] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[24Dec2024 23:36:11.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[24Dec2024 23:36:15.299] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Dec2024 23:36:16.807] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@28fff580
+[24Dec2024 23:36:16.812] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.138.193.100:50587] logged in with entity id 43502 at (324.3473765868293, 68.0, -6.746185178743025)
+[24Dec2024 23:37:59.798] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/7767, l='ServerLevel[world]', x=321.70, y=69.05, z=-35.08] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.545] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/114, l='ServerLevel[world]', x=321.70, y=68.89, z=-35.83] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.548] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/124, l='ServerLevel[world]', x=321.70, y=68.79, z=-35.19] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.549] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/128, l='ServerLevel[world]', x=321.70, y=68.85, z=-34.97] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.551] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/13691, l='ServerLevel[world]', x=321.30, y=68.32, z=-34.96] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.552] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/20671, l='ServerLevel[world]', x=321.70, y=68.69, z=-35.55] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.554] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/26336, l='ServerLevel[world]', x=321.70, y=68.75, z=-36.37] died, message: 'Villager burned to death'
+[24Dec2024 23:38:09.555] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/40505, l='ServerLevel[world]', x=321.30, y=68.93, z=-35.88] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.594] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/127, l='ServerLevel[world]', x=321.30, y=68.77, z=-35.11] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.597] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/23889, l='ServerLevel[world]', x=321.30, y=68.09, z=-35.61] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:09.698] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10236, l='ServerLevel[world]', x=321.30, y=68.96, z=-34.89] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:10.046] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6166, l='ServerLevel[world]', x=321.70, y=69.18, z=-35.73] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:20.348] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17720, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.33] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:20.398] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/27744, l='ServerLevel[world]', x=321.30, y=68.00, z=-34.92] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:20.399] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/35920, l='ServerLevel[world]', x=321.70, y=68.00, z=-34.99] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:20.845] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/121, l='ServerLevel[world]', x=321.70, y=68.85, z=-35.12] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:20.845] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/122, l='ServerLevel[world]', x=321.70, y=68.13, z=-35.83] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:20.848] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/14586, l='ServerLevel[world]', x=321.70, y=68.71, z=-36.06] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:20.848] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16388, l='ServerLevel[world]', x=321.30, y=68.89, z=-35.57] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:21.004] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/125, l='ServerLevel[world]', x=321.70, y=68.32, z=-35.00] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:21.346] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/123, l='ServerLevel[world]', x=321.70, y=69.05, z=-35.00] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:53.594] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/118, l='ServerLevel[world]', x=321.30, y=68.00, z=-35.94] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:53.597] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/37303, l='ServerLevel[world]', x=321.30, y=68.00, z=-35.52] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:53.643] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/117, l='ServerLevel[world]', x=321.70, y=68.00, z=-34.82] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:54.094] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/115, l='ServerLevel[world]', x=321.70, y=68.99, z=-34.87] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:54.594] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/119, l='ServerLevel[world]', x=321.70, y=68.37, z=-36.00] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:57.745] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/126, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.12] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:57.796] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/39619, l='ServerLevel[world]', x=321.30, y=68.00, z=-36.20] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:58.243] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/116, l='ServerLevel[world]', x=321.70, y=68.12, z=-35.22] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:58.294] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/129, l='ServerLevel[world]', x=321.70, y=68.21, z=-35.49] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:38:58.297] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/25457, l='ServerLevel[world]', x=321.30, y=68.13, z=-36.06] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:42:31.344] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/43367, l='ServerLevel[world]', x=338.50, y=68.28, z=-16.50] died, message: 'Villager tried to swim in lava'
