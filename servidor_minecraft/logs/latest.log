@@ -247,3 +247,20 @@
 [24Dec2024 22:40:59.224] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [24Dec2024 22:41:00.650] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@73deda95
 [24Dec2024 22:41:00.660] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:33823] logged in with entity id 34490 at (330.3304341658458, 68.0, -37.19973935212517)
+[24Dec2024 22:45:22.592] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player freddy25 is 0a40e3e2-251d-36e6-944a-73c7341aade7
+[24Dec2024 22:45:26.498] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2870e88a
+[24Dec2024 22:45:26.502] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: freddy25[/127.99.131.89:60149] logged in with entity id 35155 at (42.5, 66.0, -191.5)
+[24Dec2024 22:46:16.486] [Server thread/INFO] [Console/]: <freddy25> hola soy frreddy
+[24Dec2024 22:46:26.302] [Server thread/INFO] [Console/]: <Dylan_HHH> si ya se}
+[24Dec2024 22:46:31.286] [Server thread/INFO] [Console/]: <Dylan_HHH> hola
+[24Dec2024 22:46:47.299] [Server thread/INFO] [Console/]: <freddy25> dame cord
+[24Dec2024 22:47:50.714] [Server thread/INFO] [Console/]: <Dylan_HHH> eres negro
+[24Dec2024 22:47:57.201] [Server thread/INFO] [Console/]: <freddy25> jajajaj
+[24Dec2024 22:48:14.313] [Server thread/INFO] [Console/]: <Dylan_HHH> toma
+[24Dec2024 22:48:32.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: freddy25 has made the advancement [Acquire Hardware]
+[24Dec2024 22:48:38.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: freddy25 was shot by Dylan_HHH
+[24Dec2024 22:48:46.449] [Server thread/INFO] [Console/]: <Dylan_HHH> xd
+[24Dec2024 22:48:47.373] [Server thread/INFO] [Console/]: <freddy25> tp
+[24Dec2024 22:49:04.357] [Server thread/INFO] [Console/]: <Dylan_HHH> tienes mods?
+[24Dec2024 22:49:09.617] [Server thread/INFO] [Console/]: <freddy25> no
+[24Dec2024 22:49:55.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: freddy25 has made the advancement [Suit Up]
