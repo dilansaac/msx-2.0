@@ -29,3 +29,23 @@
 [24Dec2024 01:31:00.649] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
 [24Dec2024 01:31:00.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
 [24Dec2024 01:31:00.700] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 01:33:27.211] [User Authenticator #26/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 01:33:29.288] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48b18748
+[24Dec2024 01:33:29.300] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:53959] logged in with entity id 56130 at (342.42567834355765, 68.0, -14.326774041654005)
+[24Dec2024 01:34:45.098] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10673, l='ServerLevel[world]', x=321.30, y=68.00, z=-35.62] died, message: 'Villager burned to death'
+[24Dec2024 01:34:45.099] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/14285, l='ServerLevel[world]', x=321.30, y=68.00, z=-35.35] died, message: 'Villager burned to death'
+[24Dec2024 01:34:45.100] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/24553, l='ServerLevel[world]', x=321.30, y=68.00, z=-35.32] died, message: 'Villager burned to death'
+[24Dec2024 01:34:45.102] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/38994, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.83] died, message: 'Villager burned to death'
+[24Dec2024 01:34:45.103] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/43784, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.83] died, message: 'Villager burned to death'
+[24Dec2024 01:34:46.049] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/37901, l='ServerLevel[world]', x=321.31, y=68.00, z=-36.54] died, message: 'Villager burned to death'
+[24Dec2024 01:34:46.096] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/730, l='ServerLevel[world]', x=321.30, y=68.00, z=-36.33] died, message: 'Villager burned to death'
+[24Dec2024 01:34:46.097] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/5761, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.28] died, message: 'Villager burned to death'
+[24Dec2024 01:34:46.100] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/12957, l='ServerLevel[world]', x=321.70, y=68.00, z=-36.70] died, message: 'Villager burned to death'
+[24Dec2024 01:34:54.946] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/25248, l='ServerLevel[world]', x=321.60, y=68.00, z=-36.70] died, message: 'Villager burned to death'
+[24Dec2024 01:34:54.948] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/41380, l='ServerLevel[world]', x=321.70, y=68.00, z=-36.09] died, message: 'Villager burned to death'
+[24Dec2024 01:34:54.949] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/49330, l='ServerLevel[world]', x=321.70, y=68.00, z=-35.35] died, message: 'Villager burned to death'
+[24Dec2024 01:36:58.296] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/138, l='ServerLevel[world]', x=318.50, y=62.00, z=-42.70] died, message: 'Librarian was slain by Zombie'
+[24Dec2024 01:37:24.546] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/137, l='ServerLevel[world]', x=316.30, y=62.00, z=-42.70] died, message: 'Librarian was slain by Zombie'
+[24Dec2024 01:39:47.750] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[24Dec2024 01:39:47.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[24Dec2024 01:40:56.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Into Fire]
