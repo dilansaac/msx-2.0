@@ -4,3 +4,13 @@
 [24Dec2024 00:57:12.798] [Server thread/INFO] [Console/]: <Crying_Prophet> 41 -7
 [24Dec2024 01:01:11.446] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
 [24Dec2024 01:01:11.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[24Dec2024 01:02:31.582] [User Authenticator #21/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Dec2024 01:02:33.997] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@116c5e1c
+[24Dec2024 01:02:34.002] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:47203] logged in with entity id 49473 at (325.2312215423042, 68.0, -56.88101744240762)
+[24Dec2024 01:05:34.193] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
+[24Dec2024 01:05:34.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[24Dec2024 01:05:34.254] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 01:05:44.134] [User Authenticator #22/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Dec2024 01:05:46.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4bfbbb23
+[24Dec2024 01:05:46.056] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.138.193.100:45035] logged in with entity id 50082 at (11.911273618127275, 116.0, -7.505872269373475)
+[24Dec2024 01:11:27.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [A Terrible Fortress]
