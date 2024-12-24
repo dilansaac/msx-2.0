@@ -23,3 +23,9 @@
 [24Dec2024 01:16:21.551] [User Authenticator #24/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
 [24Dec2024 01:16:23.114] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e67b56a
 [24Dec2024 01:16:23.131] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.144.18.75:36539] logged in with entity id 51488 at (164.7278660065238, 73.0, 62.39540569845006)
+[24Dec2024 01:22:08.203] [User Authenticator #25/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 01:22:14.801] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2346472c
+[24Dec2024 01:22:14.805] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:47677] logged in with entity id 52962 at (319.0970170585398, 68.0, 14.10100181091595)
+[24Dec2024 01:31:00.649] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[24Dec2024 01:31:00.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 01:31:00.700] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
