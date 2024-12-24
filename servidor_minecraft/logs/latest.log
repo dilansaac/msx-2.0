@@ -201,3 +201,5 @@
 [24Dec2024 18:34:44.835] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [24Dec2024 18:34:46.498] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42100abd
 [24Dec2024 18:34:46.534] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.232.193.90:42373] logged in with entity id 88 at (334.3079519623825, 68.0, -19.294762232680085)
+[24Dec2024 18:48:30.580] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[24Dec2024 18:48:34.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3767ms or 75 ticks behind
