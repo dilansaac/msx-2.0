@@ -49,3 +49,15 @@
 [24Dec2024 01:39:47.750] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
 [24Dec2024 01:39:47.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
 [24Dec2024 01:40:56.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Into Fire]
+[24Dec2024 01:44:40.097] [User Authenticator #27/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[24Dec2024 01:44:42.104] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@72b6b306
+[24Dec2024 01:44:42.108] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.72.193.197:51569] logged in with entity id 58697 at (326.28640834344907, 80.0, 10.300000011920927)
+[24Dec2024 01:45:43.103] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[24Dec2024 01:45:43.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[24Dec2024 01:46:14.476] [User Authenticator #28/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Dec2024 01:46:44.505] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@52d8f617[id=5113c246-f851-365d-ae5f-8beea591f8fd,name=Crying_Prophet,properties={},legacy=false] (/127.144.18.75:38567): Took too long to log in
+[24Dec2024 01:46:44.547] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@52d8f617[id=5113c246-f851-365d-ae5f-8beea591f8fd,name=Crying_Prophet,properties={},legacy=false] (/127.144.18.75:38567) lost connection: Took too long to log in
+[24Dec2024 01:48:06.462] [User Authenticator #29/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[24Dec2024 01:48:08.002] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1289485e
+[24Dec2024 01:48:08.006] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.138.193.100:60529] logged in with entity id 59322 at (204.46549855454393, 80.875, 49.040244169991915)
+[24Dec2024 01:51:50.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has made the advancement [Tactical Fishing]
