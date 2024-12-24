@@ -225,3 +225,14 @@
 [24Dec2024 20:57:02.643] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/93, l='ServerLevel[world]', x=304.30, y=62.00, z=-42.70] died, message: 'Fletcher was slain by Zombie'
 [24Dec2024 20:57:20.693] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/94, l='ServerLevel[world]', x=306.70, y=62.00, z=-42.70] died, message: 'Fletcher was slain by Zombie'
 [24Dec2024 20:57:42.743] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/95, l='ServerLevel[world]', x=308.30, y=62.00, z=-42.70] died, message: 'Fletcher was slain by Zombie'
+[24Dec2024 21:04:44.649] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[24Dec2024 21:04:44.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 21:07:36.626] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 21:07:38.100] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7376c8c8
+[24Dec2024 21:07:38.105] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:55069] logged in with entity id 25388 at (319.9806570425968, 63.125, -40.94999998807907)
+[24Dec2024 21:08:08.248] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[24Dec2024 21:08:08.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[24Dec2024 21:08:08.301] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24Dec2024 21:08:45.831] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[24Dec2024 21:08:47.250] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@653847c9
+[24Dec2024 21:08:47.255] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.232.193.90:46641] logged in with entity id 25525 at (319.9806570425968, 63.125, -40.94999998807907)
