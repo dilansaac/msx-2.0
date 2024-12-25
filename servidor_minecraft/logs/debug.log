@@ -3233,3 +3233,15 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [24Dec2024 23:50:18.396] [Server thread/INFO] [Console/]: <Crying_Prophet> cuando agarras xp
 [24Dec2024 23:52:29.308] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Dec2024 23:52:29.311] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 23:56:27.044] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/130, l='ServerLevel[world]', x=321.36, y=68.59, z=-35.42] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:56:27.045] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2265, l='ServerLevel[world]', x=321.70, y=68.47, z=-36.11] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:56:27.543] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/AbstractRailBlock$1
+[24Dec2024 23:56:30.544] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/133, l='ServerLevel[world]', x=321.39, y=68.26, z=-36.65] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:56:30.745] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11580, l='ServerLevel[world]', x=321.47, y=68.00, z=-34.43] died, message: 'Villager tried to swim in lava'
+[24Dec2024 23:57:24.642] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/RailState$1
+[24Dec2024 23:57:29.230] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 23:57:29.233] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 00:02:29.376] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:02:29.398] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 00:03:49.947] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[25Dec2024 00:03:49.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
