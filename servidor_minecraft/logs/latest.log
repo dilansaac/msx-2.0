@@ -13,3 +13,6 @@
 [25Dec2024 01:22:50.394] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/46460, l='ServerLevel[world]', x=306.15, y=66.00, z=23.70] died, message: 'Villager was slain by Zombie'
 [25Dec2024 01:35:58.696] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
 [25Dec2024 01:35:58.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[25Dec2024 04:57:34.409] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[25Dec2024 04:57:51.805] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@274675f0
+[25Dec2024 04:57:51.814] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.87.34.104:43373] logged in with entity id 61079 at (414.30000001192093, 19.0, 97.4648294680318)
