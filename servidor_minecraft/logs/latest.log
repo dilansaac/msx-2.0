@@ -10,3 +10,4 @@
 [25Dec2024 00:07:26.488] [Server thread/INFO] [Console/]: <Crying_Prophet> te amo
 [25Dec2024 00:08:27.646] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
 [25Dec2024 00:08:27.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[25Dec2024 01:22:50.394] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/46460, l='ServerLevel[world]', x=306.15, y=66.00, z=23.70] died, message: 'Villager was slain by Zombie'
