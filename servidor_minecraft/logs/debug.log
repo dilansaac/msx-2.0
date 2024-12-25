@@ -3377,3 +3377,9 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [25Dec2024 01:27:29.443] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [25Dec2024 01:32:29.251] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Dec2024 01:32:29.255] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 01:35:58.696] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[25Dec2024 01:35:58.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[25Dec2024 01:37:29.165] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:37:29.169] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Dec2024 01:42:29.076] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:42:29.079] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
