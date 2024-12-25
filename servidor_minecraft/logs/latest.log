@@ -1,2 +1,12 @@
 [25Dec2024 00:03:49.947] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
 [25Dec2024 00:03:49.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[25Dec2024 00:06:16.346] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[25Dec2024 00:06:16.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[25Dec2024 00:07:13.565] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[25Dec2024 00:07:15.141] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a834ac5
+[25Dec2024 00:07:15.145] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:34375] logged in with entity id 48326 at (184.69999998807907, 82.0, -9.423839586395337)
+[25Dec2024 00:07:19.289] [Server thread/INFO] [Console/]: <Crying_Prophet> bb
+[25Dec2024 00:07:21.688] [Server thread/INFO] [Console/]: <Crying_Prophet> me voy
+[25Dec2024 00:07:26.488] [Server thread/INFO] [Console/]: <Crying_Prophet> te amo
+[25Dec2024 00:08:27.646] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[25Dec2024 00:08:27.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
