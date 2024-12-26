@@ -337,3 +337,9 @@
 [26Dec2024 23:09:46.388] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
 [26Dec2024 23:09:49.534] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@35ff48ee
 [26Dec2024 23:09:49.541] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.144.18.75:38627] logged in with entity id 44464 at (328.94866301002, 68.0, 6.662769041420165)
+[26Dec2024 23:11:08.087] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[26Dec2024 23:11:08.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[26Dec2024 23:13:21.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has completed the challenge [Hot Tourist Destinations]
+[26Dec2024 23:17:33.499] [User Authenticator #19/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[26Dec2024 23:17:35.789] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58befcfe
+[26Dec2024 23:17:35.798] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.72.193.197:55647] logged in with entity id 47230 at (324.45362633867734, 68.5, -21.558545613190432)
