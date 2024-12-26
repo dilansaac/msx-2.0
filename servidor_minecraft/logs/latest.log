@@ -311,3 +311,5 @@
 [26Dec2024 22:01:50.416] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [26Dec2024 22:01:51.794] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@68a509c8
 [26Dec2024 22:01:51.800] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:49939] logged in with entity id 31606 at (394.548583984375, 64.55000001192093, -68.84912109375)
+[26Dec2024 22:17:51.834] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[26Dec2024 22:17:51.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
