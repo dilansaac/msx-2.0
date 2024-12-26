@@ -290,3 +290,5 @@
 [26Dec2024 03:53:03.607] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/105, l='ServerLevel[world]', x=306.30, y=62.00, z=-36.30] died, message: 'Librarian was slain by Husk'
 [26Dec2024 03:54:39.958] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/113, l='ServerLevel[world]', x=312.70, y=62.00, z=-42.54] died, message: 'Toolsmith was slain by Zombie'
 [26Dec2024 03:54:59.756] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/101, l='ServerLevel[world]', x=314.66, y=63.00, z=-36.31] died, message: 'Librarian burned to death'
+[26Dec2024 04:15:19.709] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[26Dec2024 04:15:19.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
