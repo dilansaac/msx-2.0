@@ -355,3 +355,4 @@
 [26Dec2024 23:26:05.382] [User Authenticator #21/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [26Dec2024 23:26:06.888] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e0021c9
 [26Dec2024 23:26:06.893] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:50103] logged in with entity id 49749 at (327.31671550818373, 68.0, -48.87587295764847)
+[26Dec2024 23:31:12.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has completed the challenge [Return to Sender]
