@@ -2331,3 +2331,14 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [26Dec2024 20:19:09.683] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/140, l='ServerLevel[world]', x=305.70, y=66.00, z=7.45] died, message: 'Weaponsmith was slain by Zombie'
 [26Dec2024 20:24:06.136] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [26Dec2024 20:24:06.142] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 20:28:40.434] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[26Dec2024 20:28:40.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[26Dec2024 20:29:06.345] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 20:29:06.351] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 20:31:04.288] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.EnchantmentContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.EnchantmentContainer$1
+[26Dec2024 20:31:57.707] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[26Dec2024 20:33:07.627] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory$1
+[26Dec2024 20:34:06.330] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 20:34:06.335] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 20:34:10.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Enchanter]
+[26Dec2024 20:34:29.302] [Server thread/DEBUG] [mixin/]: Mixing inventory.container.GrindstoneContainer1Mixin from mixins.arclight.core.json into net.minecraft.inventory.container.GrindstoneContainer$1
