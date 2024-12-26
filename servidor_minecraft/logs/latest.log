@@ -261,3 +261,4 @@
 [26Dec2024 20:45:33.827] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
 [26Dec2024 20:45:35.799] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@26918c36
 [26Dec2024 20:45:35.808] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.101.22.229:55185] logged in with entity id 10221 at (344.05000001192093, 69.91745283296375, -12.078105180193011)
+[26Dec2024 20:52:31.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was shot by Dylan_HHH
