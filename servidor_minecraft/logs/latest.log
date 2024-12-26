@@ -296,3 +296,8 @@
 [26Dec2024 21:39:47.090] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@335043f8
 [26Dec2024 21:39:47.095] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:38029] logged in with entity id 26265 at (321.08434688103415, 68.0, -18.156988543936603)
 [26Dec2024 21:44:12.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Local Brewery]
+[26Dec2024 21:54:29.938] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 0.3591483233363011
+[26Dec2024 21:54:29.988] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 0.671872526049154
+[26Dec2024 21:54:30.032] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 0.9626097497764474
+[26Dec2024 21:54:30.084] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 1.225051641809325
+[26Dec2024 21:56:49.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [The Parrots and the Bats]
