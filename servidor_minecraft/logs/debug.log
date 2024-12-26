@@ -2326,3 +2326,8 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [26Dec2024 20:14:49.189] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/math/BlockPos;)V to mdb87c1c$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:block.PortalSizeMixin
 [26Dec2024 20:16:49.885] [Server thread/DEBUG] [Arclight/]: Unhandled damage of ZombieEntity['Zombie'/5929, l='ServerLevel[world]', x=238.50, y=64.00, z=-30.50] from lightningBolt
 [26Dec2024 20:16:50.733] [Server thread/DEBUG] [Arclight/]: Unhandled damage of ZombieEntity['Zombie'/5929, l='ServerLevel[world]', x=238.50, y=64.00, z=-30.50] from lightningBolt
+[26Dec2024 20:19:06.114] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 20:19:06.120] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 20:19:09.683] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/140, l='ServerLevel[world]', x=305.70, y=66.00, z=7.45] died, message: 'Weaponsmith was slain by Zombie'
+[26Dec2024 20:24:06.136] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 20:24:06.142] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
