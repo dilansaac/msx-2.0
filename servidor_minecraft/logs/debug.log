@@ -2313,3 +2313,16 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [26Dec2024 20:00:19.660] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@ef01284 into net.minecraft.network.NetworkManager@538191d6
 [26Dec2024 20:04:06.435] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [26Dec2024 20:04:06.438] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 20:08:56.392] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/AabbHelper$1
+[26Dec2024 20:09:06.290] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 20:09:06.302] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 20:10:01.132] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/90, l='ServerLevel[world]', x=310.70, y=62.00, z=-36.30] died, message: 'Librarian was slain by Husk'
+[26Dec2024 20:10:02.078] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/block/PistonBlock$1BlockList$4efa4b47efea4357811a2a1398282690 (originally io/izzel/arclight/common/mixin/core/block/PistonBlockMixin$1BlockList)
+[26Dec2024 20:10:02.090] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/tileentity/PistonTileEntity$1
+[26Dec2024 20:14:06.144] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 20:14:06.147] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 20:14:49.185] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[26Dec2024 20:14:49.187] [Server thread/DEBUG] [mixin/]: Mixing block.PortalSizeMixin from mixins.arclight.core.json into net.minecraft.block.PortalSize
+[26Dec2024 20:14:49.189] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/math/BlockPos;)V to mdb87c1c$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:block.PortalSizeMixin
+[26Dec2024 20:16:49.885] [Server thread/DEBUG] [Arclight/]: Unhandled damage of ZombieEntity['Zombie'/5929, l='ServerLevel[world]', x=238.50, y=64.00, z=-30.50] from lightningBolt
+[26Dec2024 20:16:50.733] [Server thread/DEBUG] [Arclight/]: Unhandled damage of ZombieEntity['Zombie'/5929, l='ServerLevel[world]', x=238.50, y=64.00, z=-30.50] from lightningBolt

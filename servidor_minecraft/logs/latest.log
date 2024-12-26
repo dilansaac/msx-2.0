@@ -250,3 +250,4 @@
 [26Dec2024 20:00:18.167] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
 [26Dec2024 20:00:19.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@36cc22d6
 [26Dec2024 20:00:19.659] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.144.18.75:42757] logged in with entity id 3341 at (316.99606553106224, 63.0, -38.512360584488086)
+[26Dec2024 20:10:01.132] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/90, l='ServerLevel[world]', x=310.70, y=62.00, z=-36.30] died, message: 'Librarian was slain by Husk'
