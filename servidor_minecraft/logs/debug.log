@@ -2343,3 +2343,28 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [26Dec2024 03:29:01.558] [Server thread/INFO] [Console/]: <Crying_Prophet> 39 115 -7
 [26Dec2024 03:29:07.868] [Server thread/INFO] [Console/]: <Crying_Prophet> tepeate rapido
 [26Dec2024 03:29:51.623] [Server thread/INFO] [Console/]: <Crying_Prophet> tepeate w
+[26Dec2024 03:30:00.502] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /tp 39 115 -7
+[26Dec2024 03:30:00.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dylan_HHH: Teleported Dylan_HHH to 39.5, 115.0, -6.5]
+[26Dec2024 03:30:20.464] [Server thread/INFO] [Console/]: <Dylan_HHH> ya
+[26Dec2024 03:30:21.584] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 03:30:21.588] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 03:30:51.980] [Server thread/INFO] [Console/]: <Crying_Prophet> gracias bb
+[26Dec2024 03:30:58.696] [Server thread/INFO] [Console/]: <Dylan_HHH> me voy
+[26Dec2024 03:31:03.867] [Server thread/INFO] [Console/]: <Crying_Prophet> voy pa la mina a por oro
+[26Dec2024 03:31:10.528] [Server thread/INFO] [Console/]: <Crying_Prophet> lo vas a DEJAS abieto?
+[26Dec2024 03:31:15.695] [Server thread/INFO] [Console/]: <Dylan_HHH> gracias por entrar
+[26Dec2024 03:31:17.377] [Server thread/INFO] [Console/]: <Crying_Prophet> si no lo ierras
+[26Dec2024 03:31:20.495] [Server thread/INFO] [Console/]: <Dylan_HHH> si
+[26Dec2024 03:31:28.459] [Server thread/INFO] [Console/]: <Crying_Prophet> dame mi hacha porfi
+[26Dec2024 03:31:30.192] [Server thread/INFO] [Console/]: <Dylan_HHH> lo dejo
+[26Dec2024 03:31:37.127] [Server thread/INFO] [Console/]: <Crying_Prophet> oki
+[26Dec2024 03:31:39.883] [Server thread/INFO] [Console/]: <Crying_Prophet> chao mi amor
+[26Dec2024 03:31:44.216] [Server thread/INFO] [Console/]: <Crying_Prophet> aqui te tengo la llave
+[26Dec2024 03:31:45.183] [Server thread/INFO] [Console/]: <Dylan_HHH> chao papu
+[26Dec2024 03:32:05.096] [Server thread/INFO] [Console/]: <Dylan_HHH> cuando puedo la busco
+[26Dec2024 03:32:09.659] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[26Dec2024 03:32:09.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[26Dec2024 03:32:10.527] [Server thread/INFO] [Console/]: <Crying_Prophet> okji
+[26Dec2024 03:32:18.519] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_16_R3/event/CraftEventFactory$1
+[26Dec2024 03:35:21.674] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 03:35:21.679] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
