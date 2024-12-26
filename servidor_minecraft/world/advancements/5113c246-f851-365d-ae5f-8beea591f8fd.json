@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-26 03:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-10 03:45:00 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 03:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-24 00:49:33 +0000"
@@ -224,6 +236,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-10 04:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 03:06:06 +0000"
     },
     "done": true
   },
@@ -398,6 +416,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-18 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 03:06:06 +0000"
     },
     "done": true
   },
@@ -588,6 +612,7 @@
       "minecraft:witch": "2024-12-18 22:55:41 +0000",
       "minecraft:wither_skeleton": "2024-12-24 01:12:02 +0000",
       "minecraft:husk": "2024-12-10 03:20:43 +0000",
+      "minecraft:piglin": "2024-12-26 03:06:40 +0000",
       "minecraft:enderman": "2024-12-10 03:30:55 +0000",
       "minecraft:zombie": "2024-12-10 03:20:48 +0000",
       "minecraft:drowned": "2024-12-20 01:39:07 +0000",
@@ -634,6 +659,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-24 23:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2024-12-26 03:06:06 +0000"
     },
     "done": true
   },
@@ -835,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 03:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-24 02:52:31 +0000"
@@ -856,6 +893,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-18 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 03:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 03:06:06 +0000"
     },
     "done": true
   },
@@ -1312,7 +1361,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-26 03:05:58 +0000",
       "minecraft:soul_sand_valley": "2024-12-24 01:06:44 +0000",
+      "minecraft:nether_wastes": "2024-12-26 03:05:19 +0000",
       "minecraft:basalt_deltas": "2024-12-18 21:51:55 +0000"
     },
     "done": false
@@ -1908,6 +1959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 03:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-10 03:20:31 +0000"
@@ -2025,6 +2082,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-18 23:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 03:06:06 +0000"
     },
     "done": true
   },
@@ -2427,6 +2490,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-21 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 03:06:04 +0000"
     },
     "done": true
   },
