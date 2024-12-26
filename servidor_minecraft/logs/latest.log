@@ -288,3 +288,11 @@
 [26Dec2024 21:32:53.595] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
 [26Dec2024 21:32:55.142] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2fc30ae0
 [26Dec2024 21:32:55.149] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.37.18.41:47327] logged in with entity id 23093 at (178.338190731302, 76.875, -1.418760179663821)
+[26Dec2024 21:38:58.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [A Seedy Place]
+[26Dec2024 21:39:40.586] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
+[26Dec2024 21:39:40.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[26Dec2024 21:39:40.631] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[26Dec2024 21:39:45.526] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[26Dec2024 21:39:47.090] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@335043f8
+[26Dec2024 21:39:47.095] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:38029] logged in with entity id 26265 at (321.08434688103415, 68.0, -18.156988543936603)
+[26Dec2024 21:44:12.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [Local Brewery]
