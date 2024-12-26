@@ -3797,3 +3797,15 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [26Dec2024 23:39:10.738] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [26Dec2024 23:39:10.741] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [26Dec2024 23:40:22.680] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/AbstractRailBlock$1
+[26Dec2024 23:44:10.433] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 23:44:10.437] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 23:48:50.037] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[26Dec2024 23:48:50.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[26Dec2024 23:48:50.940] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /g
+[26Dec2024 23:49:04.542] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /gamemode
+[26Dec2024 23:49:09.863] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 23:49:09.871] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 23:49:19.366] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /gamemode creative
+[26Dec2024 23:49:19.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dylan_HHH: Set own game mode to Creative Mode]
+[26Dec2024 23:49:43.685] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /gamemode survival
+[26Dec2024 23:49:43.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dylan_HHH: Set own game mode to Survival Mode]

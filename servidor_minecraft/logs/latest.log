@@ -356,3 +356,11 @@
 [26Dec2024 23:26:06.888] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e0021c9
 [26Dec2024 23:26:06.893] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:50103] logged in with entity id 49749 at (327.31671550818373, 68.0, -48.87587295764847)
 [26Dec2024 23:31:12.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex has completed the challenge [Return to Sender]
+[26Dec2024 23:48:50.037] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Disconnected
+[26Dec2024 23:48:50.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[26Dec2024 23:48:50.940] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /g
+[26Dec2024 23:49:04.542] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /gamemode
+[26Dec2024 23:49:19.366] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /gamemode creative
+[26Dec2024 23:49:19.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dylan_HHH: Set own game mode to Creative Mode]
+[26Dec2024 23:49:43.685] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH issued server command: /gamemode survival
+[26Dec2024 23:49:43.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dylan_HHH: Set own game mode to Survival Mode]
