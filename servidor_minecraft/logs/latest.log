@@ -207,3 +207,40 @@
 [26Dec2024 19:46:16.916] [Server thread/INFO] [Console/]: <Crying_Prophet> oa
 [26Dec2024 19:46:39.784] [Server thread/INFO] [Console/]: <Dylan_HHH> vamos a jugar el mapa de lol o q
 [26Dec2024 19:47:12.402] [Server thread/INFO] [Console/]: <Crying_Prophet> si
+[26Dec2024 19:47:35.167] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[26Dec2024 19:47:39.049] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@66532e9
+[26Dec2024 19:47:39.073] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.138.193.100:55271] logged in with entity id 1269 at (251.66942829123616, 65.0, 45.80716946144635)
+[26Dec2024 19:47:48.240] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Timed out
+[26Dec2024 19:47:48.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[26Dec2024 19:47:48.297] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[26Dec2024 19:48:57.997] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[26Dec2024 19:48:59.548] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@56275290
+[26Dec2024 19:48:59.554] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.72.193.197:52855] logged in with entity id 1552 at (315.50431114310055, 63.0, -38.96435255715142)
+[26Dec2024 19:49:12.602] [Server thread/INFO] [Console/]: <Crying_Prophet> volvi
+[26Dec2024 19:49:21.636] [Server thread/INFO] [Console/]: <Crying_Prophet> se pego esa madre
+[26Dec2024 19:49:35.242] [Server thread/INFO] [Console/]: <Crying_Prophet> lo que pasa es que para jugar el mapa necesitamos otro server w
+[26Dec2024 19:50:27.488] [Server thread/INFO] [Console/]: <Dylan_HHH> no se q hacer
+[26Dec2024 19:50:30.058] [Server thread/INFO] [Console/]: <Crying_Prophet> ame el atril
+[26Dec2024 19:50:36.013] [Server thread/INFO] [Console/]: <Dylan_HHH> vamos al end
+[26Dec2024 19:50:36.100] [Server thread/INFO] [Console/]: <Crying_Prophet> de que o q
+[26Dec2024 19:50:48.650] [Server thread/INFO] [Console/]: <Crying_Prophet> vamos a la nether fort?
+[26Dec2024 19:50:56.894] [Server thread/INFO] [Console/]: <Dylan_HHH> va
+[26Dec2024 19:51:01.424] [Server thread/INFO] [Console/]: <Crying_Prophet> pero quiero caida de pluma w
+[26Dec2024 19:51:03.955] [Server thread/INFO] [Console/]: <Crying_Prophet> adivin
+[26Dec2024 19:51:14.385] [Server thread/INFO] [Console/]: <Crying_Prophet> que me aparecio a nochje de primerito
+[26Dec2024 19:51:32.221] [Server thread/INFO] [Console/]: <Dylan_HHH> nwra
+[26Dec2024 19:51:32.624] [Server thread/INFO] [Console/]: <Crying_Prophet> adivina w
+[26Dec2024 19:51:36.854] [Server thread/INFO] [Console/]: <Dylan_HHH> q paso
+[26Dec2024 19:51:45.475] [Server thread/INFO] [Console/]: <Crying_Prophet> irrompibilidad 3
+[26Dec2024 19:51:48.375] [Server thread/INFO] [Console/]: <Crying_Prophet> XDDDDDDDDDDD
+[26Dec2024 19:51:57.911] [Server thread/INFO] [Console/]: <Dylan_HHH> xddd
+[26Dec2024 19:52:11.398] [Server thread/INFO] [Console/]: <Crying_Prophet> dale con el otro
+[26Dec2024 19:52:13.411] [Server thread/INFO] [Console/]: <Dylan_HHH> al dc w
+[26Dec2024 19:52:16.484] [Server thread/INFO] [Console/]: <Crying_Prophet> este tiene saqueo
+[26Dec2024 19:52:48.648] [Server thread/INFO] [Console/]: <Crying_Prophet> ya estoy
+[26Dec2024 19:52:57.484] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[26Dec2024 19:52:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[26Dec2024 19:52:57.535] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[26Dec2024 19:57:21.384] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[26Dec2024 19:57:23.743] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@73c8748f
+[26Dec2024 19:57:23.749] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.101.22.229:52433] logged in with entity id 2854 at (315.90249773846296, 63.0, -39.41307909445164)
