@@ -2447,3 +2447,9 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [26Dec2024 21:04:06.179] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [26Dec2024 21:04:06.192] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [26Dec2024 21:04:21.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Crying_Prophet
+[26Dec2024 21:09:06.486] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:09:06.502] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 21:09:19.680] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/103, l='ServerLevel[world]', x=312.70, y=62.00, z=-42.70] died, message: 'Toolsmith was slain by Zombie'
+[26Dec2024 21:14:06.157] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:14:06.161] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 21:18:04.252] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.gen.WorldGenRegionMixin from mixins.arclight.core.json into net.minecraft.world.gen.WorldGenRegion

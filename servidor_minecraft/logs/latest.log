@@ -263,3 +263,4 @@
 [26Dec2024 20:45:35.808] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.101.22.229:55185] logged in with entity id 10221 at (344.05000001192093, 69.91745283296375, -12.078105180193011)
 [26Dec2024 20:52:31.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet was shot by Dylan_HHH
 [26Dec2024 21:04:21.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH was slain by Crying_Prophet
+[26Dec2024 21:09:19.680] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/103, l='ServerLevel[world]', x=312.70, y=62.00, z=-42.70] died, message: 'Toolsmith was slain by Zombie'
