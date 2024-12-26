@@ -2372,3 +2372,16 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [26Dec2024 03:40:21.522] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [26Dec2024 03:45:21.412] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [26Dec2024 03:45:21.416] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 03:50:21.842] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 03:50:21.845] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 03:51:47.069] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/block/HorizontalFaceBlock$1
+[26Dec2024 03:51:47.122] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/util/AabbHelper$1
+[26Dec2024 03:53:03.607] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/105, l='ServerLevel[world]', x=306.30, y=62.00, z=-36.30] died, message: 'Librarian was slain by Husk'
+[26Dec2024 03:53:05.556] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/block/PistonBlock$1BlockList$fc46ec5123e947f4b8dff75212e64ac2 (originally io/izzel/arclight/common/mixin/core/block/PistonBlockMixin$1BlockList)
+[26Dec2024 03:53:05.564] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/tileentity/PistonTileEntity$1
+[26Dec2024 03:54:39.958] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/113, l='ServerLevel[world]', x=312.70, y=62.00, z=-42.54] died, message: 'Toolsmith was slain by Zombie'
+[26Dec2024 03:54:59.756] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/101, l='ServerLevel[world]', x=314.66, y=63.00, z=-36.31] died, message: 'Librarian burned to death'
+[26Dec2024 03:55:21.288] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 03:55:21.300] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 04:00:21.243] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:00:21.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
