@@ -343,3 +343,15 @@
 [26Dec2024 23:17:33.499] [User Authenticator #19/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
 [26Dec2024 23:17:35.789] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58befcfe
 [26Dec2024 23:17:35.798] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.72.193.197:55647] logged in with entity id 47230 at (324.45362633867734, 68.5, -21.558545613190432)
+[26Dec2024 23:24:51.552] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tontuex lost connection: Timed out
+[26Dec2024 23:24:51.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tontuex left the game
+[26Dec2024 23:24:51.593] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[26Dec2024 23:24:59.892] [User Authenticator #20/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[26Dec2024 23:25:02.389] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@370d6152
+[26Dec2024 23:25:02.394] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.144.18.75:46285] logged in with entity id 49336 at (41.5, 116.0, -6.742342432537782)
+[26Dec2024 23:25:28.488] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Timed out
+[26Dec2024 23:25:28.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[26Dec2024 23:25:28.539] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[26Dec2024 23:26:05.382] [User Authenticator #21/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[26Dec2024 23:26:06.888] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e0021c9
+[26Dec2024 23:26:06.893] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:50103] logged in with entity id 49749 at (327.31671550818373, 68.0, -48.87587295764847)
