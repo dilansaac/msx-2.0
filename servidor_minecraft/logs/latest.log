@@ -316,3 +316,8 @@
 [26Dec2024 22:20:59.626] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
 [26Dec2024 22:21:03.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3759ms or 75 ticks behind
 [26Dec2024 22:22:07.631] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/123, l='ServerLevel[world]', x=281.80, y=66.00, z=-0.78] died, message: 'Weaponsmith was slain by Zombie'
+[26Dec2024 22:33:14.063] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Crying_Prophet is 5113c246-f851-365d-ae5f-8beea591f8fd
+[26Dec2024 22:33:15.591] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7bde5a3c
+[26Dec2024 22:33:15.598] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Crying_Prophet[/127.138.193.100:58531] logged in with entity id 38847 at (386.8276079266105, 64.0, -66.57329018954749)
+[26Dec2024 22:33:48.034] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[26Dec2024 22:33:48.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
