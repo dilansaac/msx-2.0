@@ -301,3 +301,13 @@
 [26Dec2024 21:54:30.032] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 0.9626097497764474
 [26Dec2024 21:54:30.084] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 1.225051641809325
 [26Dec2024 21:56:49.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet has made the advancement [The Parrots and the Bats]
+[26Dec2024 22:01:15.134] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[26Dec2024 22:01:15.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[26Dec2024 22:01:17.872] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[26Dec2024 22:01:19.288] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@773981fb
+[26Dec2024 22:01:19.293] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.161.163.130:54581] logged in with entity id 31541 at (394.548583984375, 64.55000001192093, -68.84912109375)
+[26Dec2024 22:01:47.632] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
+[26Dec2024 22:01:47.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[26Dec2024 22:01:50.416] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Dylan_HHH is 7bf25c75-cb42-3eb9-bc7e-9109e9e259b5
+[26Dec2024 22:01:51.794] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@68a509c8
+[26Dec2024 22:01:51.800] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dylan_HHH[/127.8.167.22:49939] logged in with entity id 31606 at (394.548583984375, 64.55000001192093, -68.84912109375)
