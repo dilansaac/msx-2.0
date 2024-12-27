@@ -9,3 +9,6 @@
 [27Dec2024 00:10:08.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
 [27Dec2024 01:40:38.882] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
 [27Dec2024 01:40:38.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
+[27Dec2024 02:12:21.744] [User Authenticator #24/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tontuex is c116b748-fcf7-310a-8879-08ba63865e69
+[27Dec2024 02:12:23.882] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f27ba46
+[27Dec2024 02:12:23.886] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.153.92.144:54387] logged in with entity id 70969 at (300.5060772916762, 68.0, -28.778894817768126)
