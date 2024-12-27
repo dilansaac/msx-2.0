@@ -7,3 +7,5 @@
 [27Dec2024 00:04:32.372] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Dylan_HHH) moved wrongly! 0.3853654775684845
 [27Dec2024 00:10:08.636] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dylan_HHH lost connection: Disconnected
 [27Dec2024 00:10:08.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dylan_HHH left the game
+[27Dec2024 01:40:38.882] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Crying_Prophet lost connection: Disconnected
+[27Dec2024 01:40:38.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Crying_Prophet left the game
