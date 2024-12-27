@@ -4141,3 +4141,7 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [27Dec2024 02:12:23.882] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f27ba46
 [27Dec2024 02:12:23.886] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tontuex[/127.153.92.144:54387] logged in with entity id 70969 at (300.5060772916762, 68.0, -28.778894817768126)
 [27Dec2024 02:12:23.886] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@6539fce3 into net.minecraft.network.NetworkManager@31152c51
+[27Dec2024 02:14:09.777] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Dec2024 02:14:09.780] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Dec2024 02:19:10.062] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Dec2024 02:19:10.065] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
